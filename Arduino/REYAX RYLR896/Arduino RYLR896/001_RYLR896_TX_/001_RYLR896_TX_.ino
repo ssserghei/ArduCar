@@ -1,5 +1,7 @@
-/*This Code is for the TRANSMITTER- но это еще не факт. 
-возможно оба устройства будут передавать и принимать*/
+/*Скеч РАБОЧИЙ. 08,03,2021
+ * тестовый проект с моулем лора, общаемся с модулем 
+и перебрасываем данные с компорта лоре и с лоры в компорт
+*/
 /*
 Лог обмена с модулем
 AT
@@ -37,7 +39,6 @@ AT+SEND=0,5,HELLO
 ***в терминале получателя должно появится 
 +RCV=0,5,HELLO,-49,36
 
-
 */
 #include <SoftwareSerial.h> 
 SoftwareSerial LORA(2, 3); // RX | TX 
@@ -51,24 +52,20 @@ void setup() {
   LORA.begin(115200); //default baudrate of module is 115200
   delay(100);             //wait for Lora device to be ready
 
-  LORA.print("AT\r\n");
+  LORA.print("AT\r\n");   //общаемся с молулем,посылаем команду AT
   delay(100);
-  Serial.write(LORA.read());
+  Serial.write(LORA.read());//посылаем в компорт то что ответил молуль
 
-  LORA.print("AT\r\n");
-  delay(100);
-  Serial.write(LORA.read());
+  //посылаем тестовое сообщение в эфир 
+  LORA.print("AT+SEND=0,5,HELLO\r\n");   //send "HELLO" to address 0("5" bytes)
 
-  LORA.print("AT\r\n");
-  delay(100);
-  Serial.write(LORA.read());
- 
 }//end setup
 
-void loop() {
-if (LORA.available())
+void loop() {// put your main code here, to run repeatedly:
+  //то что пришло от лоры посылаем в компорт и наоборот.
+  //то что пришло с компорт посылаем лоре. 
+  if (LORA.available())
     Serial.write(LORA.read());
   if (Serial.available())
     LORA.write(Serial.read());
-   
 }
