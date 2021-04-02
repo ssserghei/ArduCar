@@ -120,26 +120,26 @@ void loop() //******************************************************
   //Автомобиль идет вперед влево(по диагонали), если входящие данные " G.
     else if (flag == 'G') {
       analogWrite(motorA1,vSpeed ); analogWrite(motorA2, 0);  
-        analogWrite(motorB1, 100);    analogWrite(motorB2, 0); 
+        analogWrite(motorB1, 64);    analogWrite(motorB2, 0); 
     }
   /**********************İleri Sağ************************/
   //Если входящие данные' I ' автомобиль идет вперед вправо(по диагонали).
     else if (flag == 'I') {
-        analogWrite(motorA1, 100); analogWrite(motorA2, 0); 
+        analogWrite(motorA1, 64); analogWrite(motorA2, 0); 
         analogWrite(motorB1, vSpeed);      analogWrite(motorB2, 0); 
     }
 
 /**********************Geri Sol************************/
   //Если данные из ' H ' автомобиль возвращается влево(по диагонали) 
     else if (flag == 'H') {
-      analogWrite(motorA1, 0);   analogWrite(motorA2, 100); 
+      analogWrite(motorA1, 0);   analogWrite(motorA2, 64); 
         analogWrite(motorB1, 0); analogWrite(motorB2, vSpeed); 
     }
   /**********************Geri Sağ************************/
   //Если входящие данные 'J' автомобиль возвращается вправо(по диагонали)
     else if (flag == 'J') {
       analogWrite(motorA1, 0);   analogWrite(motorA2, vSpeed); 
-        analogWrite(motorB1, 0);   analogWrite(motorB2, 100); 
+        analogWrite(motorB1, 0);   analogWrite(motorB2, 64); 
     }
  
 }//end IF

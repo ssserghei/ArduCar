@@ -1,3 +1,5 @@
+
+
 #include "esp_camera.h"
 #include <WiFi.h>
 
@@ -15,8 +17,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "arducar";
-const char* password = "arducararducar";
+const char* ssid = "ssserghei";
+const char* password = "1qaz2wsx";
 
 void startCameraServer();
 

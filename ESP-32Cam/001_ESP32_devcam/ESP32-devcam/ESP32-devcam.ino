@@ -1,4 +1,11 @@
- #include "OV2640.h"
+/*
+плата-
+Добавляем в строку Дополнительные ссылки для менеджера плат вот этот код и нажимаем ОК
+https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
+ 
+*/
+
+#include "OV2640.h"
 #include <WiFi.h>
 #include <WebServer.h>
 #include <WiFiClient.h>
@@ -10,8 +17,8 @@
 
 #include "soc/soc.h" //disable brownout problems
 #include "soc/rtc_cntl_reg.h"  //disable brownout problems
-const char* ssid = "arducar";
-const char* password = "arducararducar";
+const char* ssid = "ssserghei"; //arducar
+const char* password = "1qaz2wsx";//arducararducar
 
 // This board has slightly different GPIO bindings (and lots more RAM)
 // uncomment to use
