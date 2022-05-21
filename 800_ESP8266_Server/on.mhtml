@@ -1,0 +1,936 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://192.168.43.212/5/on
+Subject: 
+Date: Thu, 8 Jul 2021 17:14:10 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Kc0TVXHrDk8qTxeJEbF7mwLdqzzbG4Dn9oO5N1ZNzd----"
+
+
+------MultipartBoundary--Kc0TVXHrDk8qTxeJEbF7mwLdqzzbG4Dn9oO5N1ZNzd----
+Content-Type: text/html
+Content-ID: <frame-CCEA079471FB4828E693AD1463F0CD80@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://192.168.43.212/5/on
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Dwindows-1252"><link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"cid:css-5dd695f3-57ae-47b2-b2ff-41d18665741f@mhtml.blink" /><link r=
+el=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f55b5727-2da3-48d1-9950=
+-6ad7123ff0c9@mhtml.blink" /><meta name=3D"viewport" content=3D"width=3Ddev=
+ice-width, initial-scale=3D1">
+<link rel=3D"icon" href=3D"data:,">
+</head>
+<body><h1>ESP8266 Web Server</h1>
+<p>GPIO 5 - State on</p>
+<p><a href=3D"http://192.168.43.212/5/off"><button class=3D"button button2"=
+>OFF</button></a></p>
+<p>GPIO 4 - State on</p>
+<p><a href=3D"http://192.168.43.212/4/off"><button class=3D"button button2"=
+>OFF</button></a></p>
+
+
+</body></html>
+------MultipartBoundary--Kc0TVXHrDk8qTxeJEbF7mwLdqzzbG4Dn9oO5N1ZNzd----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5dd695f3-57ae-47b2-b2ff-41d18665741f@mhtml.blink
+
+@charset "windows-1252";
+
+html { font-family: Helvetica; display: inline-block; margin: 0px auto; tex=
+t-align: center; }
+
+.button { background-color: rgb(25, 91, 106); border: none; color: white; p=
+adding: 16px 40px; text-decoration: none; font-size: 30px; margin: 2px; cur=
+sor: pointer; }
+
+.button2 { background-color: rgb(119, 135, 138); }
+------MultipartBoundary--Kc0TVXHrDk8qTxeJEbF7mwLdqzzbG4Dn9oO5N1ZNzd----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f55b5727-2da3-48d1-9950-6ad7123ff0c9@mhtml.blink
+
+@charset "windows-1252";
+
+:root img[style*=3D"//counter.yadro.ru/"], :root img[src*=3D"://c.bigmir.ne=
+t/"], :root a[href^=3D"http://click.hotlog.ru/"], :root a[href*=3D"//top.ma=
+il.ru/jump?"], :root [title=3D"uWeb Counter"], :root [title=3D"uCoz Counter=
+"], :root .min-width-normal > #popup_container, :root body > div[class^=3D"=
+_"][class*=3D" _"][class$=3D"_stBig"], :root body > div[id^=3D"dV"][style^=
+=3D"width"][style*=3D"height"][style*=3D"position"][style*=3D"fixed"][style=
+*=3D"overflow"][style*=3D"z-index"][style*=3D"background"], :root .app.blog=
+-post-page .secondary-header-ad-block, :root .app.blog-post-page #right-col=
+umn > .sticky, :root #root > .app > #layout > #very-right-column .aggregato=
+r__header, :root object[data^=3D"blob"], :root noindex > .search_result[cla=
+ss*=3D"search_result_"], :root img[width=3D"468"][height=3D"60"], :root img=
+[width=3D"160"][height=3D"600"], :root img[src*=3D"://cp.beget.com/promo_da=
+ta/"], :root iframe[src*=3D"utraff.com"], :root iframe[src*=3D"tureckiy-ser=
+ial.ru/"][src$=3D".php"], :root iframe[src*=3D"trafic-media.ru"], :root ifr=
+ame[src*=3D"ads.exosrv.com"], :root iframe[src*=3D"://vidroll.ru/"], :root =
+iframe[src*=3D"://ab.adpro.com.ua/"], :root iframe[src*=3D"/mixadv_"], :roo=
+t iframe[src*=3D"/carta.ua/ajax/widget."], :root iframe[src*=3D"/3647.tech"=
+], :root iframe[id^=3D"republer"], :root div[id^=3D"zcbclk"], :root div[id^=
+=3D"yandex_rtb"], :root div[id^=3D"trafmag_"], :root div[id^=3D"tizerws_"],=
+ :root div[id^=3D"smi2adblock_"], :root div[id^=3D"sblock_inform_"], :root =
+div[id^=3D"news_nest_net_ru"], :root div[id^=3D"news_nest_msk_ru"], :root d=
+iv[id^=3D"news_2xclick_ru_"], :root div[id^=3D"join_informer_"], :root div[=
+id^=3D"itizergroup_"], :root div[id^=3D"b_tz_"], :root div[id^=3D"DIV_DA_"]=
+, :root div[id^=3D"Crt-"][style], :root div[id*=3D"Teaser_Block"], :root di=
+v[data-server-rendered=3D"true"] > div[id^=3D"la-"], :root div[class^=3D"ya=
+ndex_rtb"], :root div[class^=3D"da-ya-widget"], :root div[class*=3D"spklw"]=
+[data-type=3D"ad"], :root a[onclick*=3D"trtkp.ru"], :root a[onclick*=3D"off=
+ergate-amigo"], :root a[href^=3D"https://www.juicer.io?referrer=3D"], :root=
+ a[href^=3D"https://msetup.pro"], :root a[href^=3D"https://kshop"][href*=3D=
+".pro/"], :root a[href^=3D"http://trafmaster.com"], :root a[href^=3D"http:/=
+/traderstart.mirtesen.ru"], :root a[href^=3D"http://reals-story.ru/"], :roo=
+t a[href^=3D"http://kshop.biz/"], :root a[href^=3D"http://browserload.info/=
+"], :root a[href^=3D"http://apytrc.com/click/"], :root a[href=3D"http://adv=
+ert.mirtesen.ru/"], :root a[href*=3D"zdravo-med.ru"], :root a[href*=3D"xxxr=
+evpushclcdu.com"], :root a[href*=3D"trklp.ru"], :root a[href*=3D"traflabs.x=
+yz"], :root div[id^=3D"CGCandy"], :root a[href*=3D"tptrk.ru"], :root a[href=
+*=3D"shakesclick.com"], :root a[href*=3D"shakescash.com"], :root a[href*=3D=
+"shakes.pro"], :root a[href*=3D"sapmedia.ru"], :root a[href*=3D"sandratand.=
+ru"], :root a[href*=3D"rexchange.begun.ru/rclick?"], :root a[href*=3D"refpa=
+zus.top"], :root a[href*=3D"problogrus.ru"], :root a[href^=3D"https://homya=
+nus.com"], :root a[href*=3D"please-direct.me"], :root a[href*=3D"please-dir=
+ect.com"], :root a[href*=3D"sviruniversal.com/"], :root a[href*=3D"octoclic=
+k.net"], :root a[href*=3D"marketgid.com/"], :root a[href*=3D"litewebbusines=
+s.com"], :root a[href*=3D"navaxudoru.com"], :root a[href*=3D"lifebloggersz.=
+ru"], :root a[href*=3D"kinnohoyutd.site"], :root a[href*=3D"intovarro.ru"],=
+ :root a[href*=3D"https://relap.io/r?"], :root a[href*=3D"herrabjec.pro"], =
+:root a[href*=3D"goodtrack.ru"], :root a[href*=3D"gocdn.ru"], :root a[href*=
+=3D"go.ad2up.com"], :root a[href*=3D"ftpglst.com"], :root a[href*=3D"flylin=
+ks.pw"], :root a[href*=3D"filebase.me"], :root a[href*=3D"cpl11.ru"], :root=
+ a[href*=3D"cpl1.ru"], :root a[href*=3D"cpagetti1.com"], :root a[href*=3D"c=
+msmodnews.com"], :root a[href*=3D"bubblesmedia.ru/sb/clk/"], :root a[href*=
+=3D"blogers-story.ru"], :root a[href*=3D"shakesin.com"], :root a[href*=3D"b=
+grndi.com"], :root a[href*=3D"beststbuy.ru"], :root a[href*=3D"best-zdorovy=
+e.ru"], :root a[href*=3D"beauty-list.ru"], :root a[href*=3D"medinforms.ru"]=
+, :root a[href*=3D"awesomeredirector"], :root a[href*=3D"amigo-biz.ru/ads/c=
+lick"], :root a[href*=3D"amgfile.ru"], :root a[href*=3D"ads2-adnow.com"], :=
+root a[href*=3D"slovosil.com"], :root a[href*=3D"ads-provider.com"], :root =
+a[href*=3D"://telamoncleaner.com/tracker/?partner=3D"], :root a[href*=3D":/=
+/softmediya.ru/"], :root a[href*=3D"://segodnia.club/"], :root a[href*=3D":=
+//ruonline.bar/"], :root a[href*=3D"://rendersaveron.com"], :root a[href*=
+=3D"://renderbrandium.com"], :root a[href*=3D"://reidancis.com/"], :root a[=
+href*=3D"://parandaya.com"], :root a[href*=3D"://ourbrowser.net"], :root a[=
+href*=3D"best-zdrav.ru"], :root a[href*=3D"://newbrowserme.ru/"], :root a[h=
+ref*=3D"://new.torrent-pack.ru/"], :root a[href*=3D"trafgid.xyz"], :root a[=
+href*=3D"://getyousoft.ru/"], :root a[href*=3D"://getyoursoft.ru/"], :root =
+a[href*=3D"://getbrauzer.ru/"], :root a[href*=3D"://filetaker.ru/"], :root =
+a[href*=3D"torrentum.ru"], :root a[href*=3D"://filesmytop.ru/"], :root a[hr=
+ef*=3D"://clickstats.online/"], :root a[href*=3D"://clickstats.fun/"], :roo=
+t a[href*=3D"://chikidiki.ru"], :root a[href*=3D"://betahit.click/"], :root=
+ a[href*=3D"://adv-views.com"], :root a[href*=3D"/universalsrc.net/"], :roo=
+t a[href*=3D"/universalsrc.com/"], :root a[href^=3D"http://fly-shops.ru"], =
+:root a[href*=3D"/universal-lnk.net/"], :root a[href*=3D"://vpnbrowser.ru/"=
+], :root a[href*=3D"/uni-lnk.com/"], :root a[href*=3D"/uloads.ru/"], :root =
+a[href*=3D"/u-loads.ru/"], :root a[href*=3D"/u-load.ru/"], :root a[href*=3D=
+"/rapidtor.site"], :root a[href*=3D"/onvix.tv/promo/"][target=3D"_blank"], =
+:root a[href*=3D"/newbrowser.club/"], :root a[href*=3D"/myuniversalnk.com/"=
+], :root a[href*=3D"/go.1k3.net/"], :root iframe[src*=3D"marketgid.com"], :=
+root a[href*=3D"/getdriverpack.ru"], :root a[href*=3D"/fastvk.com"], :root =
+a[href*=3D"/api/redirect?offerid=3D"], :root a[href*=3D"/advjump.com"], :ro=
+ot iframe[src*=3D"laim.tv/rotator/"], :root a[href*=3D"/advertisesimple.inf=
+o"], :root a[href*=3D"//viruniversal.com/"], :root a[href*=3D"//utimg.ru/"]=
+, :root a[href*=3D"//universalut.info/"], :root a[href*=3D"//universalse.in=
+fo/"], :root a[href*=3D"//universalice.info/"], :root a[href*=3D"//ubar.pro=
+"], :root a[href*=3D"//ubar-pro"], :root a[href*=3D"//tiruniversal.com/"], =
+:root a[href*=3D"//sub"][href*=3D"bubblesmedia.ru"], :root a[href*=3D"//spi=
+shi.vip/"], :root a[href*=3D"//restofarian.com"], :root a[href*=3D"//reruni=
+versal.com/"], :root a[href*=3D"//refpaewsbc.top/"], :root a[href*=3D"//par=
+tners.house/"], :root a[href*=3D"//parandeya.com/"], :root a[href*=3D"//lod=
+erlx.ru"], :root a[href*=3D"//lis-gor.com/"], :root a[href*=3D"//getmybrows=
+er.ru/"], :root a[href*=3D"trtkp.ru"], :root a[href*=3D"//fofuvipibo.com/"]=
+, :root a[href*=3D"//febrare.ru/"], :root a[href*=3D"advertwebgid.ru"], :ro=
+ot a[href*=3D"//ext-load.net"], :root a[href*=3D"//do-rod.com/"], :root a[h=
+ref*=3D"//avertise.ru/"], :root a[href*=3D"//1xbetlk.site/"], :root a[href*=
+=3D".twkv.ru"], :root a[href*=3D".pokupkins.ru"], :root .app.blog-post-page=
+ #blog-post-item-video-ad, :root a[href*=3D".1liveinternet.ru"], :root [onc=
+lick*=3D"trklp.ru"], :root [onclick*=3D"traffic-media.co"], :root [onclick*=
+=3D"mixadvert.com"], :root [onclick*=3D"/sb/clk/"], :root [onclick*=3D".twk=
+v.ru"], :root #root > .app > .sticky-button, :root [href^=3D"https://downlo=
+ad.cdn.yandex.net/yandex-tag/weboffer/"], :root [href*=3D"pigiuqproxy.com"]=
+, :root [href*=3D"driftawayforfun.com"], :root [href*=3D"://larchfury.com/"=
+], :root [href*=3D"://clickpzk.com/"], :root [href*=3D"://click.1k3web.net/=
+"], :root [href*=3D"://click.1k3web.com/"], :root [href*=3D"://click.1k3pub=
+.com/"], :root [href*=3D"://browseit.ru/"], :root [href*=3D"/zfvklk.ru"], :=
+root [href*=3D"/vaigowoa.com"], :root [href*=3D"//loadbrowser.ru/"], :root =
+[data-url*=3D"://installpack.net"], :root [data-link*=3D"amigo-browser.ru/d=
+kit-"], :root [data-la-show-block-id], :root [data-la-refresh-timeout], :ro=
+ot [data-la-block], :root a[href*=3D"films.ws"], :root [data-la-block-show-=
+id], :root [class^=3D"flat_"][class*=3D"_out"], :root .mywidget__col > .myw=
+idget__link_advert, :root [id^=3D"unit_"] > a[href*=3D"://smi2.ru"], :root =
+.base-page_left-side > #left_ban, :root .base-page_center > .banerTopOver, =
+:root .base-page_center > .banerTop, :root #adv_unisound ~ #main > #sliderc=
+ontentContainer, :root a[href*=3D"/get-torrent.ru"], :root #adv_kod_frame ~=
+ #gotimer, :root topadblock, :root div[id^=3D"cpa_rotator_block"], :root sc=
+ript[src^=3D"http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox=
+=3D"] + #freeshoutbox_content, :root input[onclick^=3D"window.open('http://=
+www.FriendlyDuck.com/"], :root img[alt^=3D"Fuckbook"], :root iframe[src^=3D=
+"http://static.mozo.com.au/strips/"], :root div[jscontroller=3D"U835zd"] + =
+c-wiz[jsrenderer=3D"YnuqN"], :root div[id^=3D"zergnet-widget"], :root div[i=
+d^=3D"traffective-ad-"], :root div[id^=3D"sticky_ad_"], :root div[id^=3D"rc=
+-widget-"], :root div[id^=3D"q1-adset-"], :root div[id^=3D"proadszone-"], :=
+root a[href*=3D"land-gooods.ru"], :root div[id^=3D"lazyad-"], :root div[id^=
+=3D"gtm-ad-"], :root div[id^=3D"ezoic-pub-ad-"], :root div[id^=3D"dmRosAdWr=
+apper"], :root div[id^=3D"div-adtech-ad-"], :root div[id^=3D"dfp-slot-"], :=
+root div[id^=3D"dfp-ad-"], :root div[id^=3D"block-views-topheader-ad-block-=
+"], :root div[id^=3D"advt-"], :root div[id^=3D"advads_"], :root a[href*=3D"=
+netcrys.com"], :root [class^=3D"flat_"][class*=3D"_crss"], :root div[id^=3D=
+"ads300_600-widget"], :root iframe[src*=3D"//refpakglscpj."], :root a[href^=
+=3D"http://olivka.biz/"], :root input[onclick^=3D"window.open('http://www.f=
+riendlyduck.com/"], :root div[id^=3D"ads300_250-widget"], :root div[id^=3D"=
+ads300_100-widget"], :root div[id^=3D"ads120_600-widget"], :root a[href*=3D=
+"trk-1.com"], :root div[id^=3D"adrotate_widgets-"], :root a[href*=3D"://bes=
+tnewsoft.ru/"], :root div[id^=3D"adfox_"], :root div[id^=3D"ad_script_"], :=
+root a[href*=3D"/rating/"] > img[width=3D"88"][height=3D"31"], :root div[id=
+^=3D"ad_rect_"], :root #root > .app > #layout > #very-right-column > .aggre=
+gator > .aggregator__items, :root div[id^=3D"ad_position_"], :root div[id^=
+=3D"ad-server-"], :root div[id^=3D"ad-inserter-"], :root a[href*=3D"//geroc=
+enius.com/"], :root div[id^=3D"ad-cid-"], :root div[id^=3D"acm-ad-tag-"], :=
+root a[href^=3D"http://hitcounter.ru/top/stat.php"], :root div[id^=3D"YFBMS=
+N"], :root div[id^=3D"ADV-SLOT-"], :root div[data-test-id=3D"AdDisplayWrapp=
+er"], :root div[data-spotim-slot], :root div[data-role=3D"sidebarAd"], :roo=
+t div[data-native_ad], :root div[data-mediatype=3D"advertising"], :root div=
+[data-id-advertdfpconf], :root div[data-crl=3D"true"][data-id^=3D"CarouselP=
+LA-"], :root div[data-content=3D"Advertisement"], :root div[data-adunit], :=
+root div[data-adunit-path], :root div[data-adname], :root div[data-ad-wrapp=
+er], :root div[class^=3D"zn-sponsored-outbrain-"], :root div[class^=3D"proa=
+dszone-"], :root div[class^=3D"pane-google-admanager-"], :root div[class^=
+=3D"lifeOnwerAd"], :root div[class^=3D"largeRectangleAd_"], :root div[class=
+^=3D"kiwiad-popup"], :root div[class^=3D"kiwiad-desktop"], :root div[class^=
+=3D"index_adBeforeContent_"], :root a[href*=3D"tvroff.net"], :root div[clas=
+s^=3D"index_adAfterContent_"], :root img[title=3D"bigmir)net TOP 100"], :ro=
+ot div[class^=3D"index__adWrapper"], :root div[class^=3D"block-openx-"], :r=
+oot div[class^=3D"backfill-taboola-home-slot-"], :root div[class^=3D"articl=
+eAdUnitMPU_"], :root a[href*=3D"//adoffer.pro/"], :root div[class^=3D"adver=
+tisement-desktop"], :root div[class^=3D"adsbutt_wrapper_"], :root a[href*=
+=3D"linkmyc.com"], :root div[class^=3D"ads-partner-"], :root div[class^=3D"=
+adbanner_"], :root div[class^=3D"ad_position_"], :root div[class^=3D"Sponso=
+redAds"], :root div[class^=3D"ResponsiveAd-"], :root div[class^=3D"PreAd_"]=
+, :root div[class^=3D"Display_displayAd"], :root div[id^=3D"republer_"], :r=
+oot div[class^=3D"Directory__footerAds"], :root a[href^=3D"http://datxxx.co=
+m"], :root div[class^=3D"BannerAd_"], :root div[class^=3D"AdhesionAd_"], :r=
+oot div[class^=3D"Ad__bigBox"], :root a[href*=3D"thor-media.ru/click/"], :r=
+oot div[class^=3D"Ad__adContainer"], :root img[width=3D"728"][height=3D"90"=
+], :root div[id^=3D"divAdvAD_"], :root div[class^=3D"ad_border_"], :root di=
+v[class^=3D"AdItem-"], :root [id^=3D"relap-custom-iframe-rec"], :root div[c=
+lass^=3D"AdEmbeded__AddWrapper"], :root span[data-component-type=3D"s-ads-m=
+etrics"], :root div[class^=3D"AdBannerWrapper-"], :root div[class*=3D"_AdIn=
+Article_"], :root div[class*=3D"-storyBodyAd-"], :root div[data-subscript=
+=3D"Advertising"], :root div[class$=3D"dealnews"] > .dealnews, :root div[ce=
+l_widget_id=3D"dpx-sponsored-products-detail_csm_instrumentation_wrapper"],=
+ :root div > [class][onclick*=3D".updateAnalyticsEvents"], :root display-ad=
+s, :root bottomadblock, :root aside[id^=3D"tn_ads_widget-"], :root aside[id=
+^=3D"adrotate_widgets-"], :root amp-ad-custom, :root iframe[src*=3D"fwdcdn.=
+com/frame/partners/"], :root a[target=3D"_blank"][onmousedown=3D"this.href^=
+=3D'http://paid.outbrain.com/network/redir?"], :root a[href*=3D"shakespoint=
+.com"], :root a[target=3D"_blank"][href^=3D"http://api.taboola.com/"], :roo=
+t a[style=3D"display:block;width:300px;min-height:250px"][href^=3D"http://l=
+i.cnet.com/click?"], :root div[class^=3D"BlockAdvert-"], :root a[src^=3D"ht=
+tps://www.utherverse.com/net/"], :root a[onmousedown^=3D"this.href=3D'http:=
+//paid.outbrain.com/network/redir?"][target=3D"_blank"] + .ob_source, :root=
+ a[onmousedown^=3D"this.href=3D'http://paid.outbrain.com/network/redir?"][t=
+arget=3D"_blank"], :root a[href*=3D"://ruprivate.club/"], :root a[onclick*=
+=3D"//m.economictimes.com/etmack/click.htm"], :root a[href^=3D"https://zono=
+ni.com/"], :root a[href*=3D"offhealth.ru"], :root a[href^=3D"https://www.wh=
+at-sexdating.com/"], :root a[href^=3D"https://www.vewwrmp.com/"], :root a[h=
+ref^=3D"https://www.spyoff.com/"], :root a[href^=3D"https://www.sheetmusicp=
+lus.com/?aff_id=3D"], :root a[href^=3D"https://www.sheetmusicplus.com/"][hr=
+ef*=3D"?aff_id=3D"], :root a[href^=3D"https://www.share-online.biz/affiliat=
+e/"], :root a[href^=3D"https://www.securegfm.com/"], :root a[href^=3D"https=
+://www.purevpn.com/"][href*=3D"&utm_source=3Daff-"], :root a[href^=3D"https=
+://www.privateinternetaccess.com/"] > img, :root a[href^=3D"https://www.pas=
+seura.com/"], :root div[id^=3D"amzn-assoc-ad"], :root a[href^=3D"https://ww=
+w.oboom.com/ref/"], :root div[itemtype=3D"http://schema.org/WPAdBlock"], :r=
+oot a[href^=3D"https://www.nudeidols.com/cams/"], :root a[href^=3D"https://=
+www.mypornstarcams.com/landing/click/"], :root a[href^=3D"https://www.kings=
+offetish.com/tour?partner_id=3D"], :root div[data-adzone], :root a[href^=3D=
+"https://www.iyalc.com/"], :root a[href^=3D"https://www.goldenfrog.com/vypr=
+vpn?offer_id=3D"][href*=3D"&aff_id=3D"], :root a[href^=3D"https://www.get-e=
+xpress-vpn.com/offer/"], :root a[href*=3D"/mosday.ru/ad/"], :root a[href^=
+=3D"https://www.gambling-affiliation.com/cpc/"], :root a[href^=3D"https://w=
+ww.clicktraceclick.com/"], :root a[href^=3D"https://www.camsoda.com/enter.p=
+hp?id=3D"], :root a[href^=3D"https://www.brazzersnetwork.com/landing/"], :r=
+oot a[href^=3D"https://www.bebi.com"], :root a[href^=3D"https://www.awin1.c=
+om/cread.php?awinaffid=3D"], :root a[href*=3D"mixadvert.com"], :root a[href=
+*=3D"/ogclick.com/api/redirect"], :root a[href^=3D"https://www.arthrozene.c=
+om/"][href*=3D"?tid=3D"], :root a[href^=3D"https://www.adxtro.com/"], :root=
+ a[href^=3D"https://weedzy.co.uk/"][href*=3D"&utm_"], :root a[href^=3D"http=
+s://vod09197d7.club/"], :root iframe[src*=3D"hd.gg33.top/"], :root a[href^=
+=3D"https://unreshiramor.com/"], :root a[href^=3D"https://uncensored.game/"=
+], :root a[href^=3D"https://trusted-click-host.com/"], :root a[href^=3D"htt=
+ps://trf.bannerator.com/"], :root a[href^=3D"https://traffic.bannerator.com=
+/"], :root a[href^=3D"https://tracking.truthfinder.com/?a=3D"], :root .base=
+-page_center > .banerBottom, :root #rhs_block .xpdopen > ._OKe > div > .mod=
+ > ._yYf, :root a[href^=3D"https://tracking.gitads.io/"], :root a[href^=3D"=
+https://track.ultravpn.com/"], :root a[href*=3D"/myuniversalnk.net/"], :roo=
+t a[href^=3D"https://www.adultempire.com/"][href*=3D"?partner_id=3D"], :roo=
+t a[href^=3D"https://track.healthtrader.com/"], :root a[href^=3D"https://tr=
+ack.clickmoi.xyz/"], :root div[class^=3D"da-widget-"], :root a[href^=3D"htt=
+ps://control.trafficfabrik.com/"], :root a[href^=3D"https://track.52zxzh.co=
+m/"], :root a[href*=3D"//historategory.com/"], :root #BlWrapper > .b-temp_r=
+bc, :root .ra[align=3D"right"][width=3D"30%"], :root a[href^=3D"https://axd=
+sz.pro/"], :root a[href^=3D"https://tour.mrskin.com/"], :root a[href^=3D"ht=
+tp://www.greenmangaming.com/?tap_a=3D"], :root a[href^=3D"https://tm-offers=
+.gamingadult.com/"], :root a[href^=3D"https://t.mobtya.com/"], :root a[href=
+^=3D"https://t.hrtyj.com/"], :root a[href^=3D"https://t.hrtye.com/"], :root=
+ a[href*=3D"top-info24.ru"], :root a[href^=3D"https://syndication.optimizes=
+rv.com/splash.php?"], :root a[href^=3D"http://cdn3.adexprts.com/"], :root a=
+[href^=3D"https://spygasm.com/track?"], :root [class^=3D"flat_"][class*=3D"=
+_modal"], :root div[id^=3D"ad-div-"], :root a[href^=3D"https://secure.eveon=
+line.com/ft/?aid=3D"], :root a[href*=3D"/afftraf.co/"], :root a[href^=3D"ht=
+tps://secure.bstlnk.com/"], :root div[class^=3D"kiwi-ad-wrapper"], :root a[=
+href^=3D"https://rev.adsession.com/"], :root [href*=3D".trackmstr.com"], :r=
+oot a[href^=3D"https://refpasrasw.world/"], :root a[href^=3D"https://refpae=
+xhil.top/"], :root ad-slot, :root a[href^=3D"https://pubads.g.doubleclick.n=
+et/"], :root div[id^=3D"ads_games_"], :root a[href^=3D"https://prf.hn/click=
+/"][href*=3D"/camref:"] > img, :root #rhs_block .mod > .gws-local-hotels__b=
+ooking-module, :root a[href^=3D"http://www.my-dirty-hobby.com/?sub=3D"], :r=
+oot a[href^=3D"https://porndeals.com/?track=3D"], :root a[href^=3D"https://=
+offerforge.net/"], :root div[id^=3D"ad_head_celtra_"], :root a[href^=3D"htt=
+ps://wittered-mainging.com/"], :root a[href^=3D"https://t.grtyi.com/"], :ro=
+ot a[href^=3D"https://myusenet.xyz/"], :root a[href^=3D"https://my-movie.cl=
+ub/"], :root [href^=3D"https://detachedbates.com/"], :root a[href^=3D"https=
+://mk-cdn.net/"], :root a[href^=3D"https://mk-ads.com/"], :root a[href*=3D"=
+/amigo-browser.ru"][target=3D"_blank"], :root a[href^=3D"https://medleyads.=
+com/"], :root a[href^=3D"https://mediaserver.gvcaffiliates.com/renderBanner=
+.do?"], :root iframe[src^=3D"https://tpc.googlesyndication.com/"], :root a[=
+href*=3D".approvallamp.club/"], :root a[href^=3D"https://landing1.brazzersn=
+etwork.com"], :root a[href^=3D"http://adrunnr.com/"], :root a[href^=3D"http=
+s://landing.brazzersplus.com/"], :root a[href^=3D"https://land.rk.com/landi=
+ng/"], :root .lads[width=3D"100%"][style=3D"background:#FFF8DD"], :root a[h=
+ref^=3D"https://land.brazzersnetwork.com/landing/"], :root a[href^=3D"https=
+://juicyads.in/"], :root a[href^=3D"https://join.virtuallust3d.com/"], :roo=
+t a[href^=3D"http://www.uniblue.com/cm/"], :root a[href^=3D"https://join.se=
+xworld3d.com/track/"], :root a[href^=3D"https://join.dreamsexworld.com/"], =
+:root a[href^=3D"https://iqoption.com/lp/mobile-partner/"][href*=3D"?aff=3D=
+"], :root a[href*=3D"a2g-secure.com"], :root a[href^=3D"https://iqbroker.co=
+m/"][href*=3D"?aff=3D"], :root a[href^=3D"https://incisivetrk.cvtr.io/click=
+?"], :root a[href^=3D"https://iactrivago.ampxdirect.com/"], :root a[href^=
+=3D"https://iac.ampxdirect.com/"], :root div[data-ismultirow=3D"true"][data=
+-id^=3D"CarouselPLA-"], :root a[href^=3D"https://horny-pussies.com/tds"], :=
+root a[href^=3D"https://graizoah.com/"], :root td[valign=3D"top"] > .mainme=
+nu[style=3D"padding:10px 0 0 0 !important;"], :root a[href^=3D"http://feeda=
+ds.g.doubleclick.net/"], :root a[href^=3D"https://redsittalvetoft.pro/"], :=
+root a[href^=3D"https://googleads.g.doubleclick.net/pcs/click"], :root a[hr=
+ef^=3D"http://cdn.adstract.com/"], :root a[href^=3D"https://gogoman.me/"], =
+:root div[jsdata*=3D"CarouselPLA-"][data-id^=3D"CarouselPLA-"], :root a[hre=
+f^=3D"https://go.trackitalltheway.com/"], :root a[href^=3D"https://go.strip=
+chat.com/"][href*=3D"&campaignId=3D"], :root a[href^=3D"https://go.julrdr.c=
+om/"], :root a[href^=3D"https://adnetwrk.com/"], :root a[href^=3D"https://g=
+o.gldrdr.com/"], :root div[id^=3D"mainads"], :root a[href^=3D"https://go.cu=
+rrency.com/"], :root [id^=3D"newPortal_informer_"], :root a[href^=3D"https:=
+//track.afftck.com/"], :root a[href^=3D"http://guideways.info/"], :root a[h=
+ref^=3D"https://go.cmrdr.com/"], :root a[href*=3D".inclk.com/"], :root a[hr=
+ef^=3D"https://go.ad2up.com/"], :root a[href^=3D"https://giftsale.co.uk/?ut=
+m_"], :root a[href^=3D"https://freeadult.games/"], :root a[href^=3D"https:/=
+/fonts.fontplace9.com/"], :root a[href*=3D"://yadistr.ru/"], :root a[href^=
+=3D"http://clkmon.com/adServe/"], :root a[href^=3D"https://flirtaescopa.com=
+/"], :root a[href^=3D"https://fakelay.com/"], :root a[href^=3D"https://eara=
+ndmarketing.com/"], :root [lazy-ad=3D"leftthin_banner"], :root a[href^=3D"h=
+ttps://dynamicadx.com/"], :root .GFYY1SVE2 > .GFYY1SVD2 > .GFYY1SVG5, :root=
+ a[href^=3D"https://djtcollectorclub.org/"][href*=3D"?affiliate_id=3D"], :r=
+oot a[href^=3D"https://tc.tradetracker.net/"] > img, :root a[href^=3D"//srv=
+.buysellads.com/"], :root a[href^=3D"https://dianches-inchor.com/"], :root =
+a[href^=3D"https://creacdn.top-convert.com/"], :root iframe[src^=3D"https:/=
+/pagead2.googlesyndication.com/"], :root a[href^=3D"https://retiremely.com/=
+"], :root a[href^=3D"https://cpmspace.com/"], :root .commercial-unit-mobile=
+-top > .v7hl4d, :root a[href^=3D"https://click.plista.com/pets"], :root a[h=
+ref*=3D"twtn.ru/"], :root a[href^=3D"https://chaturbate.xyz/"], :root a[hre=
+f^=3D"http://look.djfiln.com/"], :root a[href^=3D"https://chaturbate.jjgirl=
+s.com/"][href*=3D"?tour=3D"], :root a[href^=3D"https://chaturbate.com/in/?t=
+rack=3D"], :root a[href^=3D"https://chaturbate.com/in/?tour=3D"], :root a[h=
+ref^=3D"https://chaturbate.com/affiliates/"], :root a[href*=3D"://womens-jo=
+urnal.ru/"], :root [href*=3D"wap4dollar.com/"], :root .__y_elastic .__y_ite=
+m, :root a[href^=3D"https://mcdlks.com/"], :root a[href^=3D"https://bs.serv=
+ing-sys.com"], :root a#mobtop[title^=3D"\420 \435 \439 \442 \438 \43d \433 =
+ \43c \43e \431 \438 \43b \44c \43d \44b \445  \441 \430 \439 \442 \43e \43=
+2 "], :root .mod > ._jH + .rscontainer, :root a[href^=3D"https://blackorang=
+e.go2cloud.org/"], :root a[href^=3D"https://go.hpyrdr.com/"], :root a[href^=
+=3D"https://billing.purevpn.com/aff.php"] > img, :root a[href^=3D"https://a=
+ffiliates.bet-at-home.com/processing/"], :root a[href^=3D"https://ads.ad4ga=
+me.com/"], :root a[href^=3D"https://betway.com/"][href*=3D"&a=3D"], :root a=
+[href*=3D"//bestonewos.com/"], :root a[href^=3D"http://www.linkbucks.com/re=
+ferral/"], :root a[href^=3D"https://azpresearch.club/"], :root a[href^=3D"h=
+ttps://awptjmp.com/"], :root a[href^=3D"http://www.fleshlight.com/"], :root=
+ a[href^=3D"https://aweptjmp.com/"], :root a[href^=3D"https://awentw.com/"]=
+, :root a[href^=3D"https://albionsoftwares.com/"], :root a[href^=3D"http://=
+amigodistr.ru/"], :root a[href^=3D"//postlnk.com/"], :root a[href^=3D"https=
+://affiliate.rusvpn.com/click.php?"], :root a[href^=3D"https://adultfriendf=
+inder.com/go/page/landing"], :root a[href*=3D"pussl3.com"], :root a[href^=
+=3D"https://adswick.com/"], :root ads-right, :root .GKJYXHBF2 > .GKJYXHBE2 =
+> .GKJYXHBH5, :root a[href^=3D"https://adserver.adreactor.com/"], :root a[h=
+ref^=3D"https://ads.betfair.com/redirect.aspx?"], :root a[href^=3D"https://=
+refpaano.host/"], :root a[href^=3D"https://meet-to-fuck.com/tds"], :root a[=
+href*=3D"/loaderu.ru/"], :root a[href^=3D"https://adhealers.com/"], :root d=
+iv[data-adv-type=3D"dfp"], :root a[href^=3D"https://misspkl.com/"], :root #=
+MT_overroll ~ div[class][style=3D"left:0px;top:0px;height:480px;width:650px=
+;"], :root a[href^=3D"https://ad.zanox.com/ppc/"] > img, :root div[class*=
+=3D"relap"][class*=3D"-rec-item"], :root a[href^=3D"https://static.fleshlig=
+ht.com/images/banners/"], :root app-advertisement, :root a[href^=3D"https:/=
+/ad.doubleclick.net/"], :root a[href^=3D"http://zevera.com/afi.html"], :roo=
+t a[href^=3D"http://go.oclaserver.com/"], :root a[href^=3D"https://ad.atdmt=
+.com/"], :root .trc_rbox .syndicatedItem, :root a[href^=3D"https://aaucwbe.=
+com/"], :root a[href^=3D"http://xtgem.com/click?"], :root [data-la-show-id]=
+, :root a[href^=3D"https://ads.trafficpoizon.com/"], :root a[href*=3D"down-=
+news-games.ru"], :root a[href*=3D"//portakamus.com/"], :root div[class^=3D"=
+local-feed-banner-ads"], :root a[href^=3D"http://wxdownloadmanager.com/dl/"=
+], :root div[id^=3D"adpartner-jsunit-"], :root a[href*=3D"/yfiles1.ru"], :r=
+oot a[href^=3D"http://www.zergnet.com/i/"], :root a[onmousedown^=3D"this.hr=
+ef=3D'http://staffpicks.outbrain.com/network/redir?"][target=3D"_blank"] + =
+.ob_source, :root a[href^=3D"http://www.usearchmedia.com/signup?"], :root a=
+[href^=3D"http://www.torntv-downloader.com/"], :root a[href^=3D"http://www.=
+tirerack.com/affiliates/"], :root a[href^=3D"http://www.text-link-ads.com/"=
+], :root a[href^=3D"https://gghf.mobi/"], :root a[href^=3D"http://www.terra=
+clicks.com/"], :root a[href^=3D"https://ads-for-free.com/click.php?"], :roo=
+t iframe[title=3D"mixAd"], :root div[id^=3D"DIV_NNN_"], :root a[href^=3D"ht=
+tp://www.socialsex.com/"], :root img[src*=3D"//counter.yadro.ru/"], :root a=
+[onmousedown^=3D"this.href=3D'https://paid.outbrain.com/network/redir?"][ta=
+rget=3D"_blank"], :root a[href^=3D"http://www.sfippa.com/"], :root a[href*=
+=3D"kma1.biz"], :root a[href^=3D"http://www.xmediaserve.com/"], :root a[hre=
+f^=3D"http://www.sex.com/videos/?utm_"], :root a[href^=3D"http://paid.outbr=
+ain.com/network/redir?"], :root a[href^=3D"http://www.sex.com/?utm_"], :roo=
+t a[href^=3D"http://secure.signup-page.com/"], :root a[href^=3D"http://www.=
+quick-torrent.com/download.html?aff"], :root a[href^=3D"http://www.pinkvisu=
+algames.com/?revid=3D"], :root a[href^=3D"http://glprt.ru/affiliate/"], :ro=
+ot a[href^=3D"https://trklvs.com/"], :root a[href^=3D"http://www.paddypower=
+.com/?AFF_ID=3D"], :root iframe[src*=3D"://rstbtmd.com/"], :root a[href^=3D=
+"http://www.onwebcam.com/random?t_link=3D"], :root a[href*=3D"/rapidtor.ru"=
+], :root a[href^=3D"https://go.247traffic.com/"], :root a[href^=3D"http://w=
+ww.freefilesdownloader.com/"], :root a[href^=3D"http://www.mysuperpharm.com=
+/"], :root .trc_rbox_border_elm .syndicatedItem, :root a[href^=3D"http://ww=
+w.myfreepaysite.com/sfw_int.php?aid"], :root a[href^=3D"http://www.myfreepa=
+ysite.com/sfw.php?aid"], :root a[href*=3D"://bubblevard.com/"], :root a[hre=
+f^=3D"http://bcntrack.com/"], :root a[href^=3D"http://www.securegfm.com/"],=
+ :root a[href^=3D"http://www.liversely.net/"], :root [href*=3D"//trackmstr.=
+com"], :root [href*=3D"prayuserparka.com/"], :root a[href^=3D"http://www.id=
+ownloadplay.com/"], :root a[href^=3D"http://www.hitcpm.com/"], :root a[href=
+^=3D"http://fusionads.net"], :root a[href^=3D"http://www.hibids10.com/"], :=
+root div[class^=3D"awpcp-random-ads"], :root [href*=3D"//securesafemembers.=
+com"], :root a[href^=3D"http://www.graboid.com/affiliates/"], :root a[href^=
+=3D"http://www.gamebookers.com/cgi-bin/intro.cgi?"], :root iframe[data-src*=
+=3D"fwdcdn.com/frame/partners/"], :root div[id^=3D"div_openx_ad_"], :root a=
+[href^=3D"http://www.friendlyquacks.com/"], :root a[href^=3D"https://www.fi=
+nanceads.net/tc.php?"], :root a[href*=3D".tfaln.com/"], :root a[href^=3D"ht=
+tp://www.friendlyduck.com/AF_"], :root a[href^=3D"https://content.oneindia.=
+com/www/delivery/"], :root a[href^=3D"http://www.fpcTraffic2.com/blind/in.c=
+gi?"], :root a[href^=3D"http://www.flashx.tv/downloadthis"], :root a[href*=
+=3D"//loderls.ru"], :root .trc_rbox_div a[target=3D"_blank"][href^=3D"http:=
+//tab"], :root a[href^=3D"https://americafirstpolls.com/"], :root a[href^=
+=3D"http://clickserv.sitescout.com/"], :root a[href^=3D"http://www.firstloa=
+d.de/affiliate/"], :root a[href^=3D"http://www.twinplan.com/AF_"], :root a[=
+href^=3D"http://www.fducks.com/"], :root a[href^=3D"http://www.easydownload=
+now.com/"], :root #root > .app .adfox, :root a[href^=3D"http://www.duckssol=
+utions.com/"], :root a[href^=3D"https://torrentsafeguard.com/?aid=3D"], :ro=
+ot a[href^=3D"https://offers.refchamp.com/"], :root a[href^=3D"https://go.t=
+rkclick2.com/"], :root a[href^=3D"https://www.mrskin.com/account/"], :root =
+a[href^=3D"http://www.duckcash.eu/"], :root [href*=3D"postlnk.com"], :root =
+a[href^=3D"http://go.seomojo.com/tracking202/"], :root a[href^=3D"http://ww=
+w.downloadweb.org/"], :root a[href*=3D"//advtise.ru/"], :root a[href^=3D"ht=
+tp://www.down1oads.com/"], :root a[href^=3D"http://www.dealcent.com/registe=
+r.php?affid=3D"], :root .rscontainer > .ellip, :root a[href^=3D"http://www.=
+clkads.com/adServe/"], :root a[href^=3D"https://track.interactivegf.com/"],=
+ :root div[class^=3D"adpubs-"], :root a[href*=3D"deliver.trafficfabrik.com"=
+], :root a[href^=3D"http://www.cash-duck.com/"], :root a[href^=3D"https://a=
+ff-ads.stickywilds.com/"], :root a[href^=3D"http://www.bitlord.me/share/"],=
+ :root a[href*=3D"medicalblogs.ru"], :root .grid > .container > #aside-prom=
+otion, :root a[href^=3D"http://www.babylon.com/welcome/index?affID"], :root=
+ a[href*=3D".orgsales.ru"], :root [id^=3D"unit_"] > a[href*=3D"://smi2.net"=
+], :root a[onmousedown^=3D"this.href=3D'/wp-content/embed-ad-content/"], :r=
+oot a[href^=3D"//adbit.co/?a=3DAdvertise&"], :root a[href^=3D"http://popup.=
+taboola.com/"], :root a[href^=3D"https://fast-redirecting.com/"], :root a[h=
+ref^=3D"http://www.sexgangsters.com/?pid=3D"], :root a[href^=3D"http://www.=
+amazon.co.uk/exec/obidos/external-search?"], :root a[href^=3D"http://go.ad2=
+up.com/"], :root a[href^=3D"https://badoinkvr.com/"], :root a[href*=3D"/adS=
+erve/banners?"], :root a[href^=3D"http://www.adxpansion.com"], :root a[href=
+^=3D"http://www.ragazzeinvendita.com/?rcid=3D"], :root .plistaList > .itemL=
+inkPET, :root a[href^=3D"http://www.adultdvdempire.com/?partner_id=3D"][hre=
+f*=3D"&utm_"], :root a[href^=3D"http://www.adbrite.com/mb/commerce/purchase=
+_form.php?"], :root a[href^=3D"http://www.TwinPlan.com/AF_"], :root a[href^=
+=3D"https://www.googleadservices.com/pagead/aclk?"], :root a[href^=3D"http:=
+//www.1clickdownloader.com/"], :root a[href*=3D"//loderna.ru"], :root a[hre=
+f^=3D"http://www.123-reg.co.uk/affiliate2.cgi"], :root div[itemtype=3D"http=
+://www.schema.org/WPAdBlock"], :root a[href^=3D"http://wopertific.info/"], =
+:root a[href^=3D"http://bodelen.com/"], :root a[href^=3D"http://wgpartner.c=
+om/"], :root div[class^=3D"block_fortress"], :root a[href^=3D"http://web.ad=
+blade.com/"], :root a[href*=3D"://analyticsq.com"], :root a[href^=3D"https:=
+//go.onclasrv.com/"], :root img[src*=3D"top.mail.ru/counter?"], :root a[hre=
+f^=3D"http://wct.link/"], :root a[href^=3D"http://us.marketgid.com"], :root=
+ a[href^=3D"http://ul.to/ref/"], :root a[href^=3D"http://ucam.xxx/?utm_"], =
+:root a[href^=3D"http://traffic.tc-clicks.com/"], :root a[href*=3D"retagapp=
+.com"], :root a[href^=3D"http://www.liutilities.com/"], :root a[href^=3D"ht=
+tp://www.dl-provider.com/search/"], :root a[href^=3D"http://tc.tradetracker=
+.net/"] > img, :root a[href^=3D"http://tracking.deltamediallc.com/"], :root=
+ [data-leadlink*=3D"admitlead."][data-leadlink*=3D"/sb/clk/"], :root div[ar=
+ia-label=3D"Ads"], :root a[href^=3D"http://axdsz.pro/"], :root a[href^=3D"h=
+ttps://go.ebrokerserve.com/"], :root a[href^=3D"http://galleries.securewebs=
+iteaccess.com/"], :root a[href^=3D"http://stateresolver.link/"], :root a[hr=
+ef^=3D"http://sharesuper.info/"], :root a[href^=3D"https://awecrptjmp.com/"=
+], :root img[src^=3D"/stat/"][width=3D"88"][height=3D"31"], :root a[href*=
+=3D"rapidtor.ru/sb/clk/"], :root a[href^=3D"http://server.cpmstar.com/click=
+.aspx?poolid=3D"], :root div[id^=3D"rtn4p"], :root a[href^=3D"http://see.km=
+isln.com/"], :root a[href*=3D"//offergate.pro/"], :root a[href^=3D"//db52cc=
+91beabf7e8.com/"], :root a[href^=3D"https://go.nordvpn.net/aff"] > img, :ro=
+ot a[href^=3D"http://secure.vivid.com/track/"], :root a[href*=3D"://news.mi=
+rtesen.ru/newdata/"], :root a[href^=3D"http://www.downloadthesefiles.com/"]=
+, :root a[href^=3D"http://secure.cbdpure.com/aff/"], :root aside[id^=3D"adv=
+ads_ad_widget-"], :root a[href^=3D"http://lp.ezdownloadpro.info/"], :root a=
+[href^=3D"http://uploaded.net/ref/"], :root a[href^=3D"https://www.nutaku.n=
+et/signup/landing/"], :root a[href^=3D"http://s9kkremkr0.com/"], :root a[hr=
+ef^=3D"http://azmobilestore.co/"], :root a[href^=3D"http://s5prou7ulr.com/"=
+], :root a[href*=3D"adpool.bet/"], :root a[href^=3D"https://easygamepromo.c=
+om/ef/custom_affiliate/"], :root a[href^=3D"http://record.betsafe.com/"], :=
+root a[onclick*=3D"//msetup.pro/"], :root a[href^=3D"http://mo8mwxi1.com/"]=
+, :root a[href^=3D"https://bnsjb1ab1e.com/"], :root a[href*=3D"/onvix.co/pr=
+omo/"][target=3D"_blank"], :root a[href^=3D"//oardilin.com/"], :root a[href=
+^=3D"http://pwrads.net/"], :root a[href*=3D"top.24smi.info"], :root a[href^=
+=3D"http://promos.bwin.com/"], :root a[href*=3D"//12traffic.ru/"], :root a[=
+data-redirect^=3D"https://paid.outbrain.com/network/redir?"], :root a[href^=
+=3D"http://play4k.co/"], :root a[href*=3D"://clickstats.pw/"], :root div[id=
+^=3D"ad-gpt-"], :root a[href^=3D"http://pan.adraccoon.com?"], :root a[href*=
+=3D"//ezofferz.com/"], :root a[href^=3D"https://dltags.com/"], :root a[href=
+^=3D"http://onclickads.net/"], :root a[href*=3D"admitlead."][href*=3D"/sb/c=
+lk/"], :root a[href^=3D"http://n.admagnet.net/"], :root a[href^=3D"//awejmp=
+.com/"], :root a[href^=3D"http://mob1ledev1ces.com/"], :root a[href^=3D"htt=
+p://mmo123.co/"], :root iframe[src*=3D"traffic-media.co"], :root a[href^=3D=
+"http://media.paddypower.com/redirect.aspx?"], :root a[href^=3D"https://fil=
+eboom.me/pr/"], :root a[href*=3D"/rlink/simptizer/"], :root a[href^=3D"http=
+://marketgid.com"], :root a[href^=3D"http://liversely.net/"], :root div[id^=
+=3D"drudge-column-ads-"], :root a[href^=3D"http://tour.mrskin.com/"], :root=
+ a[href*=3D"//tranqvilius.com/"], :root [src^=3D"/Redirect.a2b?"], :root a[=
+href^=3D"http://linksnappy.com/?ref=3D"], :root a[href*=3D"feellights.ru"],=
+ :root a[data-redirect^=3D"http://click.plista.com/pets"], :root .section-s=
+ubheader > .section-hotel-prices-header, :root a[href^=3D"http://landingpag=
+egenius.com/"], :root a[href*=3D"re-directme.com"], :root a[href^=3D"http:/=
+/keep2share.cc/pr/"], :root [src*=3D"https://cdn.cloudimagesb.com/"], :root=
+ a[href^=3D"http://k2s.cc/pr/"], :root a[href^=3D"http://k2s.cc/code/"], :r=
+oot div[id^=3D"criteo-"][style], :root a[href*=3D"://edugrampromo.com/"], :=
+root a[href^=3D"http://www.revenuehits.com/"], :root a[href^=3D"http://inst=
+all.securewebsiteaccess.com/"], :root .widget-pane-section-result[data-resu=
+lt-ad-type], :root a[href^=3D"http://imads.integral-marketing.com/"], :root=
+ div[id^=3D"crt-"][style], :root a[href^=3D"http://igromir.info/"], :root a=
+[href^=3D"https://intrev.co/"], :root a[href^=3D"http://https://www.get-exp=
+ress-vpn.com/offer/"], :root a[href^=3D"http://goldmoney.com/?gmrefcode=3D"=
+], :root a[href*=3D".purple6401.com/"], :root a[href^=3D"https://oackoubs.c=
+om/"], :root #root > .app .adfox-top, :root a[href*=3D"joycasino.com/?partn=
+er=3D"], :root a[href*=3D"idealmedia.io"], :root div[id^=3D"advads-"], :roo=
+t a[href^=3D"http://www.myfreecams.com/?co_id=3D"][href*=3D"&track=3D"], :r=
+oot a[href*=3D"/universallnk.net/"], :root a[href^=3D"//00ae8b5a9c1d597.com=
+/"], :root a[href^=3D"http://go.fpmarkets.com/"], :root a[href^=3D"http://f=
+reesoftwarelive.com/"], :root a[href^=3D"http://adtrackone.eu/"], :root a[h=
+ref*=3D"://takenewsoft.ru/"], :root span[title=3D"Ads by Google"], :root a[=
+href^=3D"http://finaljuyu.com/"], :root a[href^=3D"http://t.wowtrk.com/"], =
+:root a[href^=3D"//syndication.dynsrvtbg.com/splash.php?"], :root a[href^=
+=3D"http://extra.bet365.com/"][href*=3D"?affiliate=3D"], :root a[href^=3D"h=
+ttp://ethfw0370q.com/"], :root div[id^=3D"bidvol-widget-"], :root a[href^=
+=3D"https://tracking.comfortclick.eu/"], :root a[href^=3D"https://bongacams=
+"][href*=3D"com/track?"], :root [id^=3D"bunyad_ads_"], :root a[href^=3D"htt=
+p://elitefuckbook.com/"], :root a[href*=3D"kinqon.ru"], :root a[href^=3D"ht=
+tp://eclkmpsa.com/"], :root a[href^=3D"http://earandmarketing.com/"], :root=
+ a[href*=3D".mfroute.com/"], :root #content > #center > .dose > .dosesingle=
+, :root a[href^=3D"http://campaign.bharatmatrimony.com/track/"], :root a[hr=
+ef*=3D"3wr110.xyz/"], :root a[href^=3D"http://d2.zedo.com/"], :root body > =
+div[style=3D"position: fixed; z-index: 999999; width: 400px; height: 308px;=
+ right: 5px; bottom: 5px;"], :root a[href^=3D"http://codec.codecm.com/"], :=
+root a[href^=3D"https://paid.outbrain.com/network/redir?"], :root a[href^=
+=3D"http://www.downloadplayer1.com/"], :root a[href^=3D"http://clicks.binar=
+ypromos.com/"], :root a[href^=3D"https://dediseedbox.com/clients/aff.php?"]=
+, :root [href^=3D"/ucmini.php"], :root a[href^=3D"http://www.wantstraffic.c=
+om/"], :root a[href^=3D"http://databass.info/"], :root div[data-test-id=3D"=
+AdBannerWrapper"], :root div[class^=3D"AdCard_"], :root a[href^=3D"http://w=
+ww.urmediazone.com/signup"], :root a[href^=3D"http://click.plista.com/pets"=
+], :root a[href^=3D"http://chaturbate.com/affiliates/"], :root [href^=3D"ht=
+tps://secure.bmtmicro.com/servlets/"], :root a[href^=3D"http://amzn.to/"] >=
+ img[src^=3D"data"], :root a[href^=3D"http://bs.serving-sys.com/"], :root a=
+[href^=3D"http://cpaway.afftrack.com/"], :root a[href^=3D"http://cdn.adsrvm=
+edia.net/"], :root [lazy-ad=3D"top_banner"], :root a[href^=3D"http://360ads=
+.go2cloud.org/"], :root a[href^=3D"http://dftrck.com/"], :root a[href^=3D"h=
+ttp://casino-x.com/?partner"], :root a[href^=3D"https://meet-sexhere.com/"]=
+, :root a[href*=3D"ex.24smi.info"], :root a[href^=3D"http://record.sportsbe=
+taffiliates.com.au/"], :root a[href^=3D"http://campeeks.com/"][href*=3D"&ut=
+m_"], :root div[class^=3D"index_displayAd_"], :root a[href^=3D"http://adult=
+games.xxx/"], :root a[href^=3D"https://s.zlink2.com/"], :root a[href^=3D"ht=
+tp://semi-cod.com/clicks/"], :root a[href^=3D"https://prime.rambler.ru/prom=
+o/"], :root a[href*=3D"/installpack.net"], :root a[href^=3D"http://campaign=
+.bharatmatrimony.com/cbstrack/"], :root a[href^=3D"http://istri.it/?"], :ro=
+ot a[href^=3D"https://gamescarousel.com/"], :root a[href*=3D"fortedrow.pro"=
+], :root a[href^=3D"http://yads.zedo.com/"], :root a[href^=3D"https://bulla=
+ds.net/get/"], :root a[href^=3D"http://down1oads.com/"], :root a[href^=3D"h=
+ttp://buysellads.com/"], :root a[href*=3D"onclkds."], :root [href^=3D"https=
+://shiftnetwork.infusionsoft.com/go/"], :root div[id^=3D"smi_teaser_"], :ro=
+ot a[href^=3D"http://betahit.click/"], :root a[href^=3D"https://torguard.ne=
+t/aff.php"] > img, :root a[href^=3D"http://bestorican.com/"], :root a[href^=
+=3D"http://bcp.crwdcntrl.net/"], :root a[href^=3D"http://bc.vc/?r=3D"], :ro=
+ot a[href^=3D"https://windscribe.com/promo/"], :root a[href^=3D"http://farm=
+.plista.com/pets"], :root a[href^=3D"http://www.fbooksluts.com/"], :root a[=
+href^=3D"http://www.cdjapan.co.jp/aff/click.cgi/"], :root a[href^=3D"http:/=
+/intent.bingads.com/"], :root a[href*=3D"//ridingintractable.com/"], :root =
+a[href^=3D"http://c.actiondesk.com/"], :root a[href^=3D"http://affiliate.gl=
+btracker.com/"], :root a[onclick*=3D"/link-fes.ru"], :root a[href^=3D"https=
+://transfer.xe.com/signup/track/redirect?"], :root a[href^=3D"http://anonym=
+ous-net.com/"], :root aside[itemtype=3D"https://schema.org/WPAdBlock"], :ro=
+ot a[href^=3D"https://watchmygirlfriend.tv/"], :root a[href^=3D"https://ovb=
+.im/"], :root div[style=3D"width: 252px; height: 450px; position: fixed; ri=
+ght: 0px; top: 0px; overflow: hidden; z-index: 10000;"], :root a[href^=3D"h=
+ttp://hotcandyland.com/partner/"], :root a[href^=3D"http://affiliates.thrix=
+xx.com/"], :root a[href^=3D"http://affiliate.coral.co.uk/processing/"], :ro=
+ot a[href^=3D"http://aff.ironsocket.com/"], :root a[href^=3D"http://adsrv.k=
+eycaptcha.com"], :root a[href^=3D"http://adserver.adreactor.com/"], :root a=
+[href^=3D"//go.onclasrv.com/"], :root .GHOFUQ5BG2 > .GHOFUQ5BF2 > .GHOFUQ5B=
+G5, :root #__mom_ad_2, :root a[href^=3D"http://ads.sprintrade.com/"], :root=
+ a[href^=3D"http://amigodistrib.ru/dkit-hps/"], :root a[href^=3D"https://ww=
+w.mrskin.com/tour"], :root a[href^=3D"http://adserver.adtech.de/"], :root a=
+[href*=3D"//universalie.info/"], :root a[href^=3D"http://cwcams.com/landing=
+/click/"], :root a[href^=3D"http://ads.betfair.com/redirect.aspx?"], :root =
+a[href^=3D"http://reallygoodlink.extremefreegames.com/"], :root a[href^=3D"=
+http://adlev.neodatagroup.com/"], :root a[href^=3D"http://ad.doubleclick.ne=
+t/"], :root a[href^=3D"https://k2s.cc/pr/"], :root a[href^=3D"http://ad.au.=
+doubleclick.net/"], :root body > iframe[style^=3D"position"][style*=3D"fixe=
+d"][id^=3D"iFb"][src^=3D"/?"], :root a[href*=3D".directtl.xyz/"], :root a[h=
+ref^=3D"http://websitedhoome.com/"], :root a[href^=3D"https://clickadilla.c=
+om/"], :root .ob_container .item-container-obpd, :root a[href^=3D"http://ww=
+w.adskeeper.co.uk/"], :root a[href^=3D"https://understandsolar.com/signup/?=
+lead_source=3D"][href*=3D"&tracking_code=3D"], :root a[href^=3D"http://ad-e=
+mea.doubleclick.net/"], :root a[href^=3D"http://srvpub.com/"], :root a[href=
+*=3D"/ulike.farm"], :root [data-dynamic-ads], :root a[href^=3D"http://a.adq=
+uantix.com/"], :root a[href^=3D"http://NowDownloadAll.com"], :root object[d=
+ata*=3D"ads.com/clk.swf"], :root a[href*=3D"/eversaree.bid"], :root a[href^=
+=3D"http://adtrack123.pl/"], :root ad-desktop-sidebar, :root [id*=3D"MGWrap=
+"], :root [src^=3D"//am15.net/?"], :root a[href^=3D"http://9amq5z4y1y.com/"=
+], :root a[href^=3D"http://1phads.com/"], :root [alt=3D"Rambler's Top100"],=
+ :root a[href^=3D"https://ismlks.com/"], :root a[href^=3D"//zenhppyad.com/"=
+], :root a[href^=3D"//www.pd-news.com/"], :root div[id^=3D"ads250_250-widge=
+t"], :root [href^=3D"https://go.astutelinks.com/"], :root [href*=3D".double=
+click-net.com"], :root a[href^=3D"//www.mgid.com/"], :root a[href^=3D"http:=
+//lp.ncdownloader.com/"], :root a[href^=3D"//pubads.g.doubleclick.net/"], :=
+root a[href^=3D"https://www.travelzoo.com/oascampaignclick/"], :root a[href=
+^=3D"https://see.kmisln.com/"], :root [src^=3D"//adtorio.com/"], :root a[hr=
+ef^=3D"http://refer.webhostingbuzz.com/"], :root body > div[style=3D"positi=
+on: fixed; z-index: 999999; width: 400px; height: 308px; left: 5px; bottom:=
+ 5px;"], :root a[href*=3D"info-blog24.ru"], :root a[onmousedown^=3D"this.hr=
+ef=3D'http://staffpicks.outbrain.com/network/redir?"][target=3D"_blank"], :=
+root a[href^=3D"//nlkdom.com/"], :root a[href^=3D"//medleyads.com/spot/"], =
+:root a[href*=3D"kodielinktrust.ru"], :root a[href*=3D"//universalin.info/"=
+], :root a[href^=3D"https://trappist-1d.com/"], :root a[href^=3D"http://go.=
+247traffic.com/"], :root a[href^=3D"https://bestcond1tions.com/"], :root a[=
+href*=3D"muz-loader.site"], :root a[href^=3D"http://greensmoke.com/"], :roo=
+t a[href*=3D"://et-cod.com/"], :root a[href^=3D"http://searchtabnew.com/"],=
+ :root a[href*=3D"?adlivk=3D"][href*=3D"&refer=3D"], :root a[href^=3D"//loo=
+k.djfiln.com/"], :root [href^=3D"https://mylead.global/stl/"] > img, :root =
+a[href^=3D"https://ilovemyfreedoms.com/"][href*=3D"?affiliate_id=3D"], :roo=
+t a[href*=3D"/vkout.ru"], :root [href*=3D".afftracks.online/"], :root div[c=
+lass^=3D"Component-dfp-"], :root a[href^=3D"//healthaffiliate.center/"], :r=
+oot [onclick*=3D"content.ad/"], :root a[href^=3D"https://clixtrac.com/"], :=
+root a[href*=3D"/kshop3.biz"], :root a[href^=3D"https://look.utndln.com/"],=
+ :root #tads[aria-label], :root a[href^=3D"http://googleads.g.doubleclick.n=
+et/pcs/click"], :root a[href^=3D"//5e1fcb75b6d662d.com/"], :root a[href^=3D=
+"//4f6b2af479d337cf.com/"], :root a[href*=3D"/ribnadzo.ru"], :root a[href^=
+=3D"//4c7og3qcob.com/"], :root a[href^=3D"http://tezfiles.com/pr/"], :root =
+#rhs_block > ol > .rhsvw > .kp-blk > .xpdopen > ._OKe > ol > ._DJe > .luhb-=
+div, :root a[href^=3D".vddfe.club/"], :root [href^=3D"/ucdownloader.php"], =
+:root a[href^=3D"https://awejmp.com/"], :root [href*=3D"//go2page.net"], :r=
+oot a[href^=3D" http://www.sex.com/"][href*=3D"&utm_"], :root .GPMV2XEDA2 >=
+ .GPMV2XEDP1 > .GPMV2XEDJBB, :root [href^=3D"https://mysbitl.com"], :root a=
+[href^=3D"https://adclick.g.doubleclick.net/"], :root a[href*=3D".intab.fun=
+/"], :root a[href*=3D"get-express-vpn.xyz"], :root a[href^=3D"https://prf.h=
+n/click/"][href*=3D"/creativeref:"] > img, :root a[href*=3D"=3Dadscript"], =
+:root #mn #center_col > div > h2.spon:first-child, :root a[href*=3D"realgoo=
+dies.ru"], :root a[href*=3D"/onvix.me/promo/"][target=3D"_blank"], :root a[=
+href*=3D"=3DAdtracker"], :root [href^=3D"https://track.fiverr.com/visit/"],=
+ :root a[href^=3D"http://4c7og3qcob.com/"], :root a[href^=3D"https://member=
+s.linkifier.com/public/affiliateLanding?refCode=3D"], :root a[href^=3D"http=
+s://jmp.awempire.com/"], :root [href^=3D"https://wct.link/"], :root a[href^=
+=3D"https://track.totalav.com/"], :root a[href^=3D"http://deloplen.com/afu.=
+php?zoneid=3D"], :root [href^=3D"https://www.hostg.xyz/aff_c"], :root a[hre=
+f^=3D"http://ad-apac.doubleclick.net/"], :root div[class^=3D"bidvol-widget-=
+"], :root c-wiz[jsrenderer=3D"YnuqN"] > div > div > .Rn1jbe, :root a[href*=
+=3D"/servlet/click/zone?"], :root a[href^=3D"http://track.trkvluum.com/"], =
+:root #atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top, :root a[href=
+*=3D"/adrotate-out.php?"], :root a[href^=3D"https://www.chngtrack.com/"], :=
+root a[href*=3D"=3Dexoclick"], :root a[href^=3D"https://track.trkinator.com=
+/"] { display: none !important; }
+
+:root div[id^=3D"ad-position-"], :root a[data-redirect^=3D"this.href=3D'htt=
+p://paid.outbrain.com/network/redir?"], :root a[href^=3D"http://liversely.c=
+om/"], :root a[href^=3D"http://www.firstclass-download.com/"], :root a[href=
+*=3D"//bongacams7.com/track?"], :root a[href^=3D"https://track.afcpatrk.com=
+/"], :root a[href*=3D"webdiana.ru/click"], :root a[href*=3D".ad-center.com/=
+"], :root a[href*=3D".udncoeln.com/"], :root a[href*=3D".surfmdia.com/"], :=
+root .ob-widget > .ob-first.ob-widget-section, :root a[href*=3D".smartadser=
+ver.com"], :root a[href*=3D".revimedia.com/"], :root .commercial-unit-deskt=
+op-rhs > div[jscontroller=3D"YD5eo"], :root dile-cookies-consent, :root [id=
+^=3D"div-gpt-ad"], :root .__ywvr .__y_item, :root #flowplayer > div[style=
+=3D"position: absolute; width: 300px; height: 275px; left: 222.5px; top: 85=
+px; z-index: 999;"], :root a[href^=3D"http://www.on2url.com/app/adtrack.asp=
+"], :root a[href^=3D"http://download-performance.com/"], :root a[href^=3D"h=
+ttps://farm.plista.com/pets"], :root a[href^=3D"http://trk.mdrtrck.com/"], =
+:root a[href^=3D"https://adsrv4k.com/"], :root div[class*=3D"td-a-rec-id-"]=
+, :root a[href*=3D".red90121.com/"], :root a[href*=3D".opskln.com/"], :root=
+ a[href*=3D"//yojlf.com"], :root a[href^=3D"http://z1.zedo.com/"], :root a[=
+href*=3D".irtyc.com/"], :root a[href^=3D"http://www.firstload.com/affiliate=
+/"], :root a[href^=3D"http://www.friendlyadvertisements.com/"], :root div[i=
+d^=3D"div_ad_stack_"], :root a[href*=3D".ichlnk.com/"], :root a[href*=3D"//=
+newbrowser.me/"], :root div[id^=3D"ad_bigbox_"], :root #content > #right > =
+.dose > .dosesingle, :root a[href^=3D"http://eaplay.ru/"], :root a[href*=3D=
+"://riaccaw.com/"], :root #assetsListings[style=3D"display: block;"], :root=
+ a[href^=3D"http://9nl.es/"], :root [lazy-ad=3D"leftbottom_banner"], :root =
+a[href*=3D".fwd28.com/"], :root img[src*=3D"://r.i.ua/"], :root div[id^=3D"=
+yandex_ad"], :root a[href^=3D"https://www.pornhat.com/"][rel=3D"nofollow"],=
+ :root a[href^=3D"https://www.hotgirls4fuck.com/"], :root a[href^=3D"http:/=
+/y1jxiqds7v.com/"], :root a[href*=3D".frtyl.com/"], :root a[href^=3D"http:/=
+/api.content.ad/"], :root a[href*=3D".clkcln.com/"], :root a[href^=3D"http:=
+//click.payserve.com/"], :root iframe[src^=3D"http://ad.yieldmanager.com/"]=
+, :root a[href^=3D"http://pubads.g.doubleclick.net/"], :root a[href^=3D"htt=
+p://serve.williamhill.com/promoRedirect?"], :root a[href*=3D"n47adshostnet.=
+com/"], :root a[href*=3D".cfm?fp=3D"][href*=3D"&prvtof=3D"], :root a[href*=
+=3D"ultrabit.ws"], :root a[data-widget-outbrain-redirect^=3D"http://paid.ou=
+tbrain.com/network/redir?"], :root a[href^=3D"http://join3.bannedsextapes.c=
+om/track/"], :root #topstuff > #tads, :root a[href*=3D".bang.com/"][href*=
+=3D"&aff=3D"], :root a[href*=3D".allsports4you.club"], :root .mw > #rcnt > =
+#center_col > #taw > #tvcap > .c, :root a[href^=3D"https://playuhd.host/"],=
+ :root [href^=3D"https://go.affiliatexe.com/"], :root a[href^=3D"http://mgi=
+d.com/"], :root a[href*=3D".adsrv.eacdn.com/"] > img, :root a[href*=3D"make=
+great.website"], :root a[href^=3D"https://track.bruceads.com/"], :root div[=
+data-adservice-param-tagid=3D"contentad"], :root #MAIN.ShowTopic > .ad, :ro=
+ot a[id^=3D"ads_banner_"], :root a[href^=3D"https://porngames.adult/?SID=3D=
+"], :root a[href^=3D"http://findersocket.com/"], :root div[id^=3D"traffim-w=
+idget"], :root a[href^=3D"https://m.do.co/c/"] > img, :root [href*=3D".ltro=
+ute.com/"], :root div[class*=3D"margin-Advert"], :root #tads + div + .c, :r=
+oot a[href^=3D"//jsmptjmp.com/"], :root .commercial-unit-mobile-top .jackpo=
+t-main-content-container > .UpgKEd + .nZZLFc > .vci, :root a[href^=3D"https=
+://financeads.net/tc.php?"], :root #ssmiwdiv[jsdisplay], :root a[href*=3D".=
+adform.net/"], :root a[href*=3D".axdsz.pro/"], :root a[href^=3D"http://a63t=
+9o1azf.com/"], :root a[href^=3D"http://tds-2.ru"], :root [href*=3D"//etrack=
+ing.pro"], :root a[href^=3D"http://www.fonts.com/BannerScript/"], :root div=
+[class^=3D"hp-ad-rect-"], :root a[href^=3D"http://dwn.pushtraffic.net/"], :=
+root a[href$=3D"/vghd.shtml"], :root .GB3L-QEDGY .GB3L-QEDF- > .GB3L-QEDE-,=
+ :root a[data-url^=3D"http://paid.outbrain.com/network/redir?"] + .author, =
+:root #resultspanel > #topads, :root a[href^=3D"http://admrotate.iplayer.or=
+g/"], :root a[href^=3D"http://espn.zlbu.net/"], :root [href^=3D"https://www=
+.reimageplus.com/"], :root a[href*=3D"://topclicks.club/"], :root a[href^=
+=3D"http://affiliates.score-affiliates.com/"], :root .icons-rss-feed + .ico=
+ns-rss-feed div[class$=3D"_item"], :root a[data-oburl^=3D"https://paid.outb=
+rain.com/network/redir?"], :root a[href*=3D"tdstrk.ru"], :root a[href^=3D"h=
+ttp://refpa.top/"], :root a[data-oburl^=3D"http://paid.outbrain.com/network=
+/redir?"], :root a[href*=3D"lifenews24x7.ru"], :root .base-page_container >=
+ .banerRight, :root div[id^=3D"cns_ads_"], :root a[data-obtrack^=3D"http://=
+paid.outbrain.com/network/redir?"], :root a[data-nvp*=3D"'trafficUrl':'http=
+s://paid.outbrain.com/network/redir?"], :root a[href*=3D"//universalini.inf=
+o/"], :root a[href^=3D"http://www.badoink.com/go.php?"], :root a[class=3D"R=
+BAd"], :root [src^=3D"http://api.lanistaads.com/ServeAd?"], :root a[href^=
+=3D"https://prf.hn/click/"][href*=3D"/adref:"] > img, :root a[href^=3D"http=
+://banners.victor.com/processing/"], :root a[href^=3D"http://www.getyourgui=
+de.com/?partner_id=3D"], :root [onclick^=3D"window.open('https://www.brazze=
+rsnetwork.com/landing/"], :root div[class^=3D"mixadvert"], :root [id*=3D"Ma=
+rketGid"], :root iframe[id^=3D"marketgid_"], :root a[onclick*=3D"n284adserv=
+.com"], :root a[href^=3D"https://scurewall.co/"], :root .commercial-unit-de=
+sktop-rhs > .iKidV > .Ee92ae + .P2mpm + .hp3sk, :root a[href*=3D"goext.info=
+"], :root div[class*=3D"_browserAdOuterContainer_"], :root [name^=3D"google=
+_ads_iframe"], :root a[href*=3D"//bongacams.com/track?"], :root a[href^=3D"=
+https://servedbyadbutler.com/"], :root a[href^=3D"https://www.bet365.com/"]=
+[href*=3D"affiliate=3D"], :root a[href^=3D"https://mob1ledev1ces.com/"], :r=
+oot a[data-redirect^=3D"http://paid.outbrain.com/network/redir?"], :root a[=
+href^=3D"https://explore.findanswersnow.net/"], :root [id^=3D"adframe_wrap_=
+"], :root a[href^=3D"http://c.ketads.com/"], :root a[href^=3D"http://6kup12=
+tgxx.com/"], :root [href*=3D"//trackout.business"], :root [href^=3D"https:/=
+/veepn.g2afse.com/"], :root div[class^=3D"adUnit_"], :root a[href^=3D"https=
+://deliver.tf2www.com/"], :root a[href*=3D"//loderla.online"], :root a[href=
+^=3D"http://spygasm.com/track?"], :root .ob_dual_right > .ob_ads_header ~ .=
+odb_div, :root a[href*=3D"tvks.ru"], :root [src*=3D"//www.dianomi.com/smart=
+ads.epl"], :root a[href*=3D".adk2x.com/"], :root a[href^=3D"https://fleshli=
+ght.sjv.io/"], :root [data-ad-manager-id], :root a[href^=3D"http://www.sex.=
+com/pics/?utm_"], :root a[href^=3D"http://vo2.qrlsx.com/"], :root a[href^=
+=3D"http://engine.newsmaxfeednetwork.com/"], :root [href^=3D"https://stvkr.=
+com/"], :root a[href^=3D"http://www.roboform.com/php/land.php"], :root a[hr=
+ef*=3D"//webbrowser.club/"], :root a[href^=3D"http://refpaano.host/"], :roo=
+t a[href*=3D"/cmd.php?ad=3D"], :root .content_rb[id^=3D"content_rb_"], :roo=
+t a[href^=3D"http://ads2.williamhill.com/redirect.aspx?"], :root #center_co=
+l > #res > #topstuff + #search > div > #ires > #rso > #flun, :root a[href*=
+=3D".xromp.com/landing/click/"], :root a[href*=3D"browser-ru.site"], :root =
+div[role=3D"navigation"] + c-wiz > div > .kxhcC, :root a[href^=3D"http://ww=
+w.download-provider.org/"], :root a[href^=3D"https://10dfkuvbdkfv.club/"], =
+:root ad-triple-box, :root a[href*=3D"nhebd.xyz"], :root a[href^=3D"http://=
+online.ladbrokes.com/promoRedirect?"], :root a[href^=3D"//mob1ledev1ces.com=
+/"], :root [href^=3D"https://go.4rabettraff.com/"], :root a[href^=3D"https:=
+//www.popads.net/users/"], :root a[href^=3D"http://adultfriendfinder.com/p/=
+register.cgi?pid=3D"], :root #__nq__hh[style=3D"display:block!important"], =
+:root a[href*=3D"turbotraf.com"], :root div[data-flt-ve=3D"sponsored_search=
+_ads"], :root [href^=3D"https://affect3dnetwork.com/track/"], :root div[id^=
+=3D"M"][id*=3D"Composite"], :root a[href^=3D"https://mmwebhandler.aff-onlin=
+e.com/"], :root #PopWin[onmousemove], :root [href^=3D"https://r.kraken.com/=
+"], :root .GFYY1SVD2 > .GFYY1SVC2 > .GFYY1SVF5, :root [href^=3D"https://joi=
+n3.bannedsextapes.com"], :root [href^=3D"https://bulletprofitsmartlink.com/=
+"], :root a[href*=3D"wow-partners.com/click.php"], :root [class^=3D"flat_"]=
+[class*=3D"_cross"], :root a[href^=3D"http://www.pinkvisualpad.com/?revid=
+=3D"], :root a[href^=3D"https://www.oneclickroot.com/?tap_a=3D"] > img, :ro=
+ot dfp-ad, :root a[href^=3D"//porngames.adult/?SID=3D"], :root a[href*=3D"/=
+/refpabjgth.top/"], :root a[href^=3D"https://www.friendlyduck.com/AF_"], :r=
+oot [href^=3D"http://advertisesimple.info/"], :root [onclick^=3D"window.ope=
+n('window.open('//delivery.trafficfabrik.com/"], :root div[id^=3D"admixer_"=
+], :root a[href^=3D"https://wantopticalfreelance.com/"], :root [href^=3D"/u=
+cdownload.php"], :root [href*=3D".revrtb.com/"], :root .mod > .gws-local-pr=
+omotions__border, :root a[href^=3D"http://secure.hostgator.com/~affiliat/"]=
+, :root a[href*=3D".braun634.com/"], :root [onclick^=3D"window.open('http:/=
+/adultfriendfinder.com/search/"], :root [href^=3D"/admdownload.php"], :root=
+ a[href^=3D"http://allaptair.club/"], :root a[href^=3D"http://affiliates.pi=
+nnaclesports.com/processing/"], :root .vid-present > .van_vid_carousel__pad=
+ding, :root #header + #content > #left > #rlblock_left, :root a[href^=3D"ht=
+tp://partners.etoro.com/"], :root [id^=3D"google_ads_iframe"], :root a[href=
+^=3D"https://www.g4mz.com/"], :root a[href^=3D"http://webgirlz.online/landi=
+ng/"], :root [href*=3D"cadsecs.com/"], :root a[href^=3D"http://adserving.un=
+ibet.com/"], :root #rhs_block .mod > .luhb-div > div[data-async-type=3D"upd=
+ateHotelBookingModule"], :root a[href^=3D"http://adclick.g.doubleclick.net/=
+"], :root [href*=3D"//mclick.net"], :root a[href*=3D".trust.zone"], :root [=
+href^=3D"https://shrugartisticelder.com"], :root a[href*=3D"katuhus.com"], =
+:root a[data-href*=3D"recreativ.ru"], :root [href^=3D"https://refpahrwzjlv.=
+top/"], :root a[href^=3D"http://czotra-32.com/"], :root a[href*=3D".qertewr=
+t.com/"], :root [href*=3D"//doubleclick-net.com"], :root a[href^=3D"http://=
+putanapartners.com/go."], :root [id*=3D"ScriptRoot"], :root [href*=3D".xilo=
+y.site/"], :root a[href^=3D"http://webtrackerplus.com/"], :root a[href^=3D"=
+https://ad13.adfarm1.adition.com/"], :root a[href^=3D"http://clickandjoinyo=
+urgirl.com/"], :root [href*=3D".trackout.business"], :root [href*=3D".jetx.=
+info/"], :root div[id^=3D"beroll_rotator"], :root #center_col > #taw > #tvc=
+ap > .rscontainer, :root [href*=3D".securesafemembers.com"], :root a[href^=
+=3D"https://a.bestcontentfood.top/"], :root .commercial-unit-mobile-top .ja=
+ckpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci, :root a[href=
+*=3D"delivery.trafficfabrik.com"], :root #ads > .dose > .dosesingle, :root =
+a[href^=3D"http://www.gfrevenge.com/landing/"], :root a[href^=3D"http://hpn=
+.houzz.com/"], :root a[href*=3D"//universalies.info/"], :root a[href^=3D"ht=
+tp://45eijvhgj2.com/"], :root [href*=3D".mclick.net"], :root [data-link*=3D=
+"/sb/clk/"], :root .header-banner > #moneyback[target=3D"_blank"], :root [h=
+ref*=3D".grtya.com/"], :root .gbfwa > div[class$=3D"_item"], :root a[href^=
+=3D"https://goraps.com/"], :root div[id^=3D"gnezdo_ru_"], :root [href*=3D".=
+etracking.pro"], :root a[href*=3D"://installpack.ru"], :root a[href^=3D"htt=
+ps://secure.adnxs.com/clktrb?"], :root a[href^=3D"http://adserver.adtechus.=
+com/"], :root a[href^=3D"https://topoffers.com/"][href*=3D"/?pid=3D"], :roo=
+t a[href*=3D"://dafeb.ru/"], :root a[href^=3D"http://vinfdv6b4j.com/"], :ro=
+ot .min-width-normal > #popup_container ~ #fade, :root [href^=3D"https://do=
+oloust.net/"], :root #main-content > [style=3D"padding:10px 0 0 0 !importan=
+t;"], :root #center_col > #resultStats + div[style=3D"border:1px solid #ded=
+ede;margin-bottom:11px;padding:5px 7px 5px 6px"], :root a[href^=3D"https://=
+www.oboom.com/ad/"], :root [href*=3D".adcampo.com/"], :root a[href^=3D"http=
+://duckcash.eu/"], :root a[href^=3D"http://www.mobileandinternetadvertising=
+.com/"], :root a[href^=3D"https://track.themadtrcker.com/"], :root a[href^=
+=3D"http://hyperlinksecure.com/go/"], :root a[href^=3D"http://get.slickvpn.=
+com/"], :root [data-ad-module], :root a[href*=3D"bestforexplmdb.com"], :roo=
+t a[href^=3D"https://msecure117.com/"], :root [href^=3D"http://stvkr.com/"]=
+, :root a[href^=3D"https://keep2share.cc/pr/"], :root a[href^=3D"http://xad=
+s.zedo.com/"], :root a[href^=3D"http://www.affiliates1128.com/processing/"]=
+, :root a[href^=3D"http://c.jumia.io/"], :root [class^=3D"div-gpt-ad"], :ro=
+ot [class*=3D"auto-bottom-advertising-"], :root [href^=3D"http://raboninco.=
+com/"], :root div[id^=3D"taboola-stream-"], :root .ra[align=3D"left"][width=
+=3D"30%"], :root [class*=3D"-slot_ad-placements-"], :root [href*=3D".go2pag=
+e.net"], :root a[href^=3D"http://hd-plugins.com/download/"], :root a[href^=
+=3D"//voyeurhit.com/cs/"], :root [href*=3D"/uni-tds.com/"], :root a[href^=
+=3D"http://www.afgr3.com/"], :root [ad-id^=3D"googlead"], :root [data-link*=
+=3D"://topclicks.club/"], :root a[href^=3D"http://go.mobisla.com/"], :root =
+a[href^=3D"https://trackjs.com/?utm_source"], :root a[href^=3D"https://rela=
+p.io/"][href*=3D"promo_ad_link"], :root afs-ad, :root [id^=3D"ad-wrap-"], :=
+root #center_col > #_Emc, :root #center_col > div[style=3D"font-size:14px;m=
+argin-right:0;min-height:5px"] > div[style=3D"font-size:14px;margin:0 4px;p=
+adding:1px 5px;background:#fff8e7"], :root div[class$=3D"_b-ad-main"], :roo=
+t a[href*=3D".trck5.com/"], :root .trc_rbox_div .syndicatedItem, :root a[hr=
+ef^=3D"http://www.streamate.com/exports/"], :root [data-href^=3D"https://do=
+wnload.cdn.yandex.net/yandex-tag/weboffer/"], :root [href^=3D"https://traff=
+serve.com/"], :root [href*=3D"maskip.co/"], :root a[href^=3D"http://luckies=
+tclick.com/goto."], :root a[href*=3D"//bongacams2.com/track?"], :root div[i=
+d^=3D"tms-ad-dfp-"], :root a[href^=3D"https://trust.zone/go/r.php?RID=3D"],=
+ :root a[href^=3D"http://c43a3cd8f99413891.com/"], :root div[id^=3D"advertu=
+r_"], :root a[href*=3D"://lapina.xyz/"], :root a[href^=3D"https://www.first=
+load.com/affiliate/"], :root .trc_related_container div[data-item-syndicate=
+d=3D"true"], :root a[href^=3D"http://aflrm.com/"], :root div[id^=3D"google_=
+dfp_"], :root [href*=3D"get-download.club/"], :root .section-result[data-re=
+sult-ad-type], :root a[href^=3D"https://syndication.exoclick.com/splash.php=
+?"], :root #mn div[style=3D"position:relative"] > #center_col > div > ._dPg=
+, :root .rhsvw[style=3D"background-color:#fff;margin:0 0 14px;padding-botto=
+m:1px;padding-top:1px;"], :root a[href^=3D"http://www.coiwqe.site/"], :root=
+ iframe[id^=3D"google_ads_frame"], :root a[href^=3D"http://www.bet365.com/"=
+][href*=3D"affiliate=3D"], :root a[href^=3D"http://www.bluehost.com/track/"=
+] > img, :root a[data-url^=3D"http://paid.outbrain.com/network/redir?"], :r=
+oot a[href*=3D"kshop2.biz"], :root .ra[width=3D"30%"][align=3D"right"] + ta=
+ble[width=3D"70%"][cellpadding=3D"0"], :root a[href*=3D"//bongacams5.com/tr=
+ack?"], :root fbs-ad, :root a[href^=3D"http://see-work.info/"], :root .inli=
+neNewsletterSubscription + .inlineNewsletterSubscription div[class$=3D"_ite=
+m"], :root a[href*=3D".orange2258.com/"], :root #taw > .med + div > #tvcap =
+> .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top, :root .plista_widget_be=
+lowArticleRelaunch_item[data-type=3D"pet"], :root a[href*=3D".clksite.com/"=
+], :root a[href^=3D"http://www.webtrackerplus.com/"], :root .GJJKPX2N1 > .G=
+JJKPX2M1 > .GJJKPX2P4, :root a[href^=3D"https://ads.planetwin365affiliate.c=
+om/redirect.aspx?"], :root a[href^=3D"http://g1.v.fwmrm.net/ad/"], :root [h=
+ref^=3D"https://www.xvbelink.com/"], :root a[href^=3D"http://papi.mynativep=
+latform.com:80/pub2/"], :root leaderboard-ad, :root #mn #center_col > div >=
+ h2.spon:first-child + ol:last-child, :root #center_col > #taw > #tvcap > .=
+commercial-unit-desktop-top, :root .plistaList > .plista_widget_underArticl=
+e_item[data-type=3D"pet"], :root a[href^=3D"http://servicegetbook.net/"], :=
+root [lazy-ad=3D"lefttop_banner"], :root a[href*=3D"tvkw.ru"], :root a[href=
+*=3D"://etcodes.com/"], :root a[href^=3D"http://www.mrskin.com/tour"], :roo=
+t .jobs-information-call-to-action + .jobs-information-call-to-action div[c=
+lass$=3D"_item"], :root a[href*=3D"://lapina.best/"], :root a[href^=3D"http=
+s://go.hpyjmp.com/"], :root .vi-lb-placeholder[title=3D"ADVERTISEMENT"], :r=
+oot a[href^=3D"http://www.menaon.com/installs/"], :root a[href^=3D"http://t=
+aboola-"][href*=3D"/redirect.php?app.type=3D"], :root .mw > #rcnt > #center=
+_col > #taw > .c, :root a[href*=3D"/ber-ter.com"], :root .commercial-unit-m=
+obile-top > div[data-pla=3D"1"], :root #rhs_block > script + .c._oc._Ve.rhs=
+vw, :root #__mom_ad_12, :root a[href*=3D"//adretarget.net/"], :root .__zini=
+t .__y_item, :root .ch[onclick=3D"ga(this,event)"], :root img[width=3D"120"=
+][height=3D"600"], :root .__ywl .__y_item, :root div[id^=3D"div-ads-"], :ro=
+ot a[onmousedown^=3D"this.href=3D'https://paid.outbrain.com/network/redir?"=
+][target=3D"_blank"] + .ob_source, :root a[href^=3D"http://at.atwola.com/"]=
+, :root a[href*=3D"media-rotate.com"], :root div[id^=3D"banner-ad-"], :root=
+ #center_col > #resultStats + #tads, :root .__yinit .__y_item, :root a[href=
+^=3D"https://a.adtng.com/"], :root a[href*=3D"://loderkkis.ru"], :root a[hr=
+ef^=3D"http://static.fleshlight.com/images/banners/"], :root a[href^=3D"htt=
+ps://www.adskeeper.co.uk/"], :root [href^=3D"https://www.highrevenuecpm.com=
+"], :root a[href^=3D"https://secure.cbdpure.com/aff/"], :root div[style*=3D=
+"am15.net/img/player_skins"], :root amp-ad, :root iframe[src*=3D"mellowads.=
+com"], :root .__y_inner > .__y_item, :root a[href^=3D"https://affiliate.gee=
+kbuying.com/gkbaffiliate.php?"], :root #cnt #center_col > #res > #topstuff =
+> .ts, :root a[href^=3D"https://landing.brazzersnetwork.com/"], :root #cnt =
+#center_col > #taw > #tvcap > .c._oc._Lp, :root #rhswrapper > #rhssection[b=
+order=3D"0"][bgcolor=3D"#ffffff"], :root .Mpopup + #Mad > #MadZone, :root a=
+[href^=3D"http://ads.expekt.com/affiliates/"], :root a[href^=3D"http://www.=
+streamtunerhd.com/signup?"], :root a[href^=3D"http://www.seekbang.com/cs/"]=
+, :root a[href^=3D"http://syndication.exoclick.com/"], :root a[href^=3D"htt=
+p://bluehost.com/track/"], :root a[href^=3D"http://fsoft4down.com/"], :root=
+ a[href*=3D"ad2upapp.com/"], :root a[href*=3D"m1cpl.ru"], :root #rhs_block =
+> #mbEnd, :root a[href*=3D"//promo-bc.com/track?"], :root a[href^=3D"https:=
+//sexsimulator.game/tab/?SID=3D"], :root .rc-cta[data-target], :root #rhs_b=
+lock > .ts[cellspacing=3D"0"][cellpadding=3D"0"][style=3D"padding:0"], :roo=
+t a[href*=3D"://r.advmusic.com/"], :root a[href*=3D"/clubleads.ru"], :root =
+div[data-ad-underplayer], :root #mbEnd[cellspacing=3D"0"][cellpadding=3D"0"=
+], :root a[href^=3D"http://www.ducksnetwork.com/"], :root a[href^=3D"http:/=
+/3wr110.net/"], :root a[href^=3D"https://secure.starsaffiliateclub.com/C.as=
+hx?"], :root a[href*=3D"verismediya.ru/sb/clk/"], :root .trc_rbox_div .synd=
+icatedItemUB, :root a[href*=3D".adsbid.ru"], :root a[href^=3D"https://www.i=
+m88trk.com/"], :root a[href^=3D"http://ffxitrack.com/"], :root #center_col =
+> #main > .dfrd > .mnr-c > .c._oc._zs, :root a[href^=3D"https://squren.com/=
+rotator/?atomid=3D"], :root a[href^=3D"//40ceexln7929.com/"], :root a[href*=
+=3D"gpclick.ru"], :root #center_col > #resultStats + div + #res + #tads, :r=
+oot [data-link*=3D"://ubar-pro"], :root a[href^=3D"http://go.xtbaffiliates.=
+com/"], :root .nrelate .nr_partner, :root a[href^=3D"//88d7b6aa44fb8eb.com/=
+"], :root a[href^=3D"http://www.afgr2.com/"], :root div[data-id^=3D"div-gpt=
+-ad-"], :root a[href*=3D"//tekaners.com/"], :root #mn div[style=3D"position=
+:relative"] > #center_col > ._Ak, :root .l-container > #fishtank, :root a[h=
+ref*=3D"blogi-novosti.ru"], :root a[href^=3D"https://uncensored3d.com/"], :=
+root a[href^=3D"http://adf.ly/?id=3D"], :root a[href^=3D"https://usenetxs.w=
+ebsite/"], :root a[href^=3D"http://pokershibes.com/index.php?ref=3D"], :roo=
+t #tadsb[aria-label], :root a[href^=3D"https://deliver.ptgncdn.com/"], :roo=
+t a[href^=3D"http://latestdownloads.net/download.php?"], :root #center_col =
+> #resultStats + #tads + #res + #tads, :root a[href^=3D"//z6naousb.com/"], =
+:root a[href*=3D"/sarimsolus.com/"], :root a[href^=3D"https://reachtrgt.com=
+/"], :root div[class^=3D"Ad__container"], :root a[href^=3D"http://adprovide=
+r.adlure.net/"], :root #root > .app .brand-widget__right-cl, :root div[id^=
+=3D"adspot-"], :root #__admvnlb_modal_container, :root [data-freestar-ad], =
+:root a[href^=3D"http://rs-stripe.wsj.com/stripe/redirect"], :root #main_co=
+l > #center_col div[style=3D"font-size:14px;margin:0 4px;padding:1px 5px;ba=
+ckground:#fff7ed"], :root a[href^=3D"http://ad.yieldmanager.com/"], :root [=
+href*=3D"://simpalsid.com/ad/click?id"], :root a[href^=3D"http://www.plus50=
+0.com/?id=3D"], :root #adv_unisound ~ #ad_module_cont > [id^=3D"ad_module"]=
+, :root #flowplayer > div[style=3D"z-index: 208; position: absolute; width:=
+ 300px; height: 275px; left: 222.5px; top: 85px;"], :root a[href^=3D"https:=
+//syndication.dynsrvtbg.com/splash.php?"] { display: none !important; }
+------MultipartBoundary--Kc0TVXHrDk8qTxeJEbF7mwLdqzzbG4Dn9oO5N1ZNzd------
