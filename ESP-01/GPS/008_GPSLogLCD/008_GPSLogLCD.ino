@@ -122,28 +122,28 @@ void  logGPSData(){
       {
       unsigned long timing;
       if(millis()-timing>=1000){
-      timing=millis();
+        timing=millis();
       
-      display.clearDisplay();                    // Очищаем дисплей
-      //LAT
-      display.setTextSize(1);                    // Устанавливаем размер шрифта
-      display.setTextColor(BLACK, WHITE);        // Цвет фона
-      display.setCursor(0,0);                    // Установить позицию x, y для отображения
-      display.println("LAT");     // Отправка текста
+        display.clearDisplay();                    // Очищаем дисплей
+        //LAT
+        display.setTextSize(1);                    // Устанавливаем размер шрифта
+        display.setTextColor(BLACK, WHITE);        // Цвет фона
+        display.setCursor(0,0);                    // Установить позицию x, y для отображения
+        display.println("LAT");                    // Отправка текста
 
-      display.setCursor(25,0);                   // Установить позицию x, y для отображения 
-      display.setTextSize(1);                    // Устанавливаем размер шрифта
-      display.setTextColor(WHITE);              // Установить белый текст, черный фон
-      display.println(tinyGPS.location.lat(), 6);                 // Отправка текста
-      //LOG
-      display.setTextSize(1);                    // Устанавливаем размер шрифта
-      display.setTextColor(BLACK, WHITE);        // Цвет фона
-      display.setCursor(0,13);                    // Установить позицию x, y для отображения
-      display.println("LOG");     // Отправка текста
-      display.setCursor(25,13);                   // Установить позицию x, y для отображения 
-      display.setTextSize(1);                    // Устанавливаем размер шрифта
-      display.setTextColor(WHITE);              // Установить белый текст, черный фон
-      display.println(tinyGPS.location.lng(), 6);                 // Отправка текста
+        display.setCursor(25,0);                   // Установить позицию x, y для отображения 
+        display.setTextSize(1);                    // Устанавливаем размер шрифта
+        display.setTextColor(WHITE);               // Установить белый текст, черный фон
+        display.println(tinyGPS.location.lat(), 6);// Отправка текста
+        //LOG
+        display.setTextSize(1);                    // Устанавливаем размер шрифта
+        display.setTextColor(BLACK, WHITE);        // Цвет фона
+        display.setCursor(0,13);                   // Установить позицию x, y для отображения
+        display.println("LOG");                    // Отправка текста
+        display.setCursor(25,13);                  // Установить позицию x, y для отображения 
+        display.setTextSize(1);                    // Устанавливаем размер шрифта
+        display.setTextColor(WHITE);               // Установить белый текст, черный фон
+        display.println(tinyGPS.location.lng(), 6);                 // Отправка текста
  
       display.display();                       
       }
@@ -151,6 +151,8 @@ void  logGPSData(){
         
         SerialMonitor.println("GPS logged."); // Print a debug message
         lastLog = millis(); // Update the lastLog variable
+     
+      
       }
       else // If we failed to log GPS
       { // Print an error, don't update lastLog
