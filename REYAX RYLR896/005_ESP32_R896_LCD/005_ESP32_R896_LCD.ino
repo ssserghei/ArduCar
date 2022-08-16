@@ -4,8 +4,9 @@
  * This ESP32 code is released in the public domain
  *
  * For more detail (instruction and wiring diagram), visit https://esp32io.com/tutorials/esp32-oled
- */
  //https://esp32io.com/tutorials/esp32-oled
+  https://reyax.com/products/rylr896/
+ */
 
  /*
  работает для ESP и 0,91" OLED дисплеем
@@ -52,6 +53,9 @@ AT+SEND=0,5,HELLO
 */
 /*
 https://hackaday.io/project/181137-review-013-reyax-rylr896-lora-transceiver-module
+https://www.youtube.com/watch?v=jnvik7sUosw&t=7s
+https://github.com/akarsh98/LRM/blob/master/STAGE1.ino
+https://arduino-forth.com/article/composants_LoraREYAX
 
 */
 
