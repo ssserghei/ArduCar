@@ -68,10 +68,15 @@ https://arduino-forth.com/article/composants_LoraREYAX
 #define SCREEN_WIDTH 128 // OLED width,  in pixels
 #define SCREEN_HEIGHT 32 // OLED height, in pixels
 
+#define LED       2   //D4
 // create an OLED display object connected to I2C
 Adafruit_SSD1306 oled(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
+int incommingByte;
+
 void setup() {
+
+  pinMode(2,OUTPUT);
 // Note the format for setting a serial port is as follows: Serial2.begin(baud-rate, protocol, RX pin, TX pin);
   Serial.begin(115200);
   //Serial1.begin(9600, SERIAL_8N1, RXD2, TXD2);
@@ -98,14 +103,24 @@ void LCDShowText( char*  mes1,
                   char*  mes3);
 
 void loop() {
-
+  
   //то что пришло от лоры посылаем в компорт и наоборот.
   //то что пришло с компорт посылаем лоре. 
  while (Serial2.available()) {
     Serial.print(char(Serial2.read()));
-  var1+=char(Serial2.read());
-    Serial.print(var1.c_str());
-    LCDShowText (var1,"012345678901234567890","012345678901234567890");
+    
+ incommingByte=Serial2.read();
+
+ if(incommingByte=='H'){
+  digitalWrite (LED, HIGH);
+  }
+ if(incommingByte=='L'){
+  digitalWrite (LED, LOW);
+  }
+  
+    
+    
+    LCDShowText ("0123","012345678901234567890","012345678901234567890");
 
   }
 
