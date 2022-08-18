@@ -15,9 +15,9 @@
  пример того что выводится на ком и на дисплей
 +RCV=55,1,L,-46,41
 +RCV=55,1,H,-48,39
-
  если приходит H built LED включается
  если приходит L built LED выключается
+ 006. разделил данные и служебную инфу работает
  */
 
 
@@ -68,8 +68,7 @@ https://arduino-forth.com/article/composants_LoraREYAX
 https://create.arduino.cc/projecthub/mdraber/how-to-use-rylr998-lora-module-with-arduino-020ac4?ref=user&ref_id=1474727&offset=10
 https://www.youtube.com/watch?v=LiWlPERp1ec
 
-
-*/
+/**************************INCLUDE*************************************************/
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
@@ -84,9 +83,9 @@ https://www.youtube.com/watch?v=LiWlPERp1ec
 // create an OLED display object connected to I2C
 Adafruit_SSD1306 oled(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-
-
 String  incomingstring;
+
+
 
 /*********************************SETUP****************************************/
 void setup() {
@@ -116,6 +115,8 @@ void setup() {
 void LCDShowText( String  mes1, 
                   String  mes2, 
                   String  mes3);
+                  
+String getValue(String data, char separator, int index);
 
 /************************************LOOP*************************************/
 void loop() {
@@ -126,18 +127,25 @@ void loop() {
    
    if(Serial2.available()){
      incomingstring= Serial2.readString();
+     Serial.print("Receive Data : ");
      Serial.print(incomingstring);
+
+    String addr = getValue(incomingstring, ',', 0);   //--> address
+    String dtl = getValue(incomingstring, ',', 1);    //--> data length
+    String dt = getValue(incomingstring, ',', 2);     //--> data
+    String rssi = getValue(incomingstring, ',', 3);   //--> RSSI
+    String snr = getValue(incomingstring, ',', 4);    //--> SNR
+    
+    LCDShowText (dt,rssi,snr);
   
-   if (incomingstring.indexOf("H") >0) { 
+   if (dt=="H") { 
        digitalWrite(LED, HIGH);
    }
-    else if (incomingstring.indexOf("L") >0) { 
+    else if (dt=="L") { 
       digitalWrite(LED, LOW);
     }
    }
-    LCDShowText (incomingstring," "," ");
-
-
+    
 
 
 }//end loop
@@ -166,3 +174,23 @@ void LCDShowText( String  mes1,
   
   oled.display();              // display on OLED
  }
+
+
+
+ //========================================================================String function to process the data received
+// I got this from : https://www.electroniclinic.com/reyax-lora-based-multiple-sensors-monitoring-using-arduino/
+String getValue(String data, char separator, int index) {
+  int found = 0;
+  int strIndex[] = { 0, -1 };
+  int maxIndex = data.length() - 1;
+  
+  for (int i = 0; i <= maxIndex && found <= index; i++) {
+    if (data.charAt(i) == separator || i == maxIndex) {
+      found++;
+      strIndex[0] = strIndex[1] + 1;
+      strIndex[1] = (i == maxIndex) ? i+1 : i;
+    }
+  }
+  return found > index ? data.substring(strIndex[0], strIndex[1]) : "";
+}
+//========================================================================
