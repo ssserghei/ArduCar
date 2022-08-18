@@ -11,6 +11,13 @@
  /*
  работает для ESP и 0,91" OLED дисплеем
  003 сделал функцию кторая выводит на дисплей- работает
+ 005 то что принимает от лоры выводится в ком порт и на дисплей
+ пример того что выводится на ком и на дисплей
++RCV=55,1,L,-46,41
++RCV=55,1,H,-48,39
+
+ если приходит H built LED включается
+ если приходит L built LED выключается
  */
 
 
@@ -57,6 +64,10 @@ https://www.youtube.com/watch?v=jnvik7sUosw&t=7s
 https://github.com/akarsh98/LRM/blob/master/STAGE1.ino
 https://arduino-forth.com/article/composants_LoraREYAX
 
+https://create.arduino.cc/projecthub/mdraber/how-to-use-rylr998-lora-module-with-arduino-020ac4?ref=user&ref_id=1474727&offset=10
+https://www.youtube.com/watch?v=LiWlPERp1ec
+
+
 */
 
 #include <Wire.h>
@@ -72,8 +83,11 @@ https://arduino-forth.com/article/composants_LoraREYAX
 // create an OLED display object connected to I2C
 Adafruit_SSD1306 oled(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-int incommingByte;
 
+
+String  incomingstring;
+
+/*********************************SETUP****************************************/
 void setup() {
 
   pinMode(2,OUTPUT);
@@ -98,38 +112,43 @@ void setup() {
   }//end setup
   
 }
-void LCDShowText( char*  mes1, 
-                  char*  mes2, 
-                  char*  mes3);
+void LCDShowText( String  mes1, 
+                  String  mes2, 
+                  String  mes3);
 
+/************************************LOOP*************************************/
 void loop() {
   
   //то что пришло от лоры посылаем в компорт и наоборот.
   //то что пришло с компорт посылаем лоре. 
- while (Serial2.available()) {
-    Serial.print(char(Serial2.read()));
-    
- incommingByte=Serial2.read();
+ //while (Serial2.available()) {
+ //   Serial.print(char(Serial2.read()));
+   
+   if(Serial2.available()){
+     
+     incomingstring= Serial2.readString();
+     Serial.print(incomingstring);
 
- if(incommingByte=='H'){
-  digitalWrite (LED, HIGH);
-  }
- if(incommingByte=='L'){
-  digitalWrite (LED, LOW);
-  }
-  
-    
-    
-    LCDShowText ("0123","012345678901234567890","012345678901234567890");
+   //   oled.print(incomingstring);
+   //   oled.display();
+   
+      if (incomingstring.indexOf("H") >0) { 
+       digitalWrite(LED, HIGH);
+    }
+    else if (incomingstring.indexOf("L") >0) { 
+      digitalWrite(LED, LOW);
+    }
+   }
+    LCDShowText (incomingstring," "," ");
 
-  }
+// }
 
 
 }//end loop
 
-void LCDShowText( char*  mes1, 
-                  char*  mes2,
-                  char*  mes3){
+void LCDShowText( String  mes1, 
+                  String  mes2,
+                  String  mes3){
 //на LDC помещается 21 символов в ряд
    delay(2000);                // wait two seconds for initializing
   oled.clearDisplay();         // clear display
